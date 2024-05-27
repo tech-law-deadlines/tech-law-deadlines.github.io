@@ -1,11 +1,17 @@
 ---
 - name: Privacy
-  tag: PRIV
+  sub: PRIV
+  color: "#ffd300"
 - name: Intellectual Property
-  tag: IP
+  sub: IP
+  color: "#deff0a"
 - name: Artificial Intelligence
-  tag: AI
+  sub: AI
+  color: "#0aefff"
 - name: Security
-  tag: SEC
+  sub: SEC
+  color: "#147df5"
 - name: Junior Workshop
-  tag: JUNIOR
+  sub: JUNIOR
+  color: "#0aff99"
+
