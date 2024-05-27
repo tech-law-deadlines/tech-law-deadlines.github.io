@@ -1,85 +1,122 @@
-## AI Deadlines [![Build Status](https://travis-ci.com/abhshkdz/ai-deadlines.svg?branch=gh-pages)](https://travis-ci.com/abhshkdz/ai-deadlines)
+# Tech-Law Deadlines Countdown
 
-Countdown timers to keep track of a bunch of CV/NLP/ML/RO conference deadlines.
+<!-- TOC start (generated with https://github.com/derlin/bitdowntoc) -->
 
-## Contributing
+- [Tech-Law Deadlines Countdown](#tech-law-deadlines-countdown)
+   * [Adding or Updating a Conference](#adding-or-updating-a-conference)
+   * [New Post: Fields Detail](#new-post-fields-detail)
+      + [Deadline format](#deadline-format)
+      + [Timezones](#timezones)
+   * [Credits ](#credits)
+   * [Notable resources](#notable-resources)
 
-[![](https://sourcerer.io/fame/abhshkdz/abhshkdz/ai-deadlines/images/0)](https://sourcerer.io/fame/abhshkdz/abhshkdz/ai-deadlines/links/0)[![](https://sourcerer.io/fame/abhshkdz/abhshkdz/ai-deadlines/images/1)](https://sourcerer.io/fame/abhshkdz/abhshkdz/ai-deadlines/links/1)[![](https://sourcerer.io/fame/abhshkdz/abhshkdz/ai-deadlines/images/2)](https://sourcerer.io/fame/abhshkdz/abhshkdz/ai-deadlines/links/2)[![](https://sourcerer.io/fame/abhshkdz/abhshkdz/ai-deadlines/images/3)](https://sourcerer.io/fame/abhshkdz/abhshkdz/ai-deadlines/links/3)[![](https://sourcerer.io/fame/abhshkdz/abhshkdz/ai-deadlines/images/4)](https://sourcerer.io/fame/abhshkdz/abhshkdz/ai-deadlines/links/4)[![](https://sourcerer.io/fame/abhshkdz/abhshkdz/ai-deadlines/images/5)](https://sourcerer.io/fame/abhshkdz/abhshkdz/ai-deadlines/links/5)[![](https://sourcerer.io/fame/abhshkdz/abhshkdz/ai-deadlines/images/6)](https://sourcerer.io/fame/abhshkdz/abhshkdz/ai-deadlines/links/6)[![](https://sourcerer.io/fame/abhshkdz/abhshkdz/ai-deadlines/images/7)](https://sourcerer.io/fame/abhshkdz/abhshkdz/ai-deadlines/links/7)
+<!-- TOC end -->
 
-Contributions are very welcome!
+## Adding or Updating a Conference
 
-To keep things minimal, I'm only looking to list top-tier conferences in AI as per [conferenceranks.com][6] and my judgement calls. Please feel free to maintain a separate fork if you don't see your sub-field or conference of interest listed.
+> :warning: **HELP ME**: If you find the following steps and directions hard to parse, send me an email with a conference you are interested in adding! nathan.reitinger@gmail.com
 
-To add or update a deadline:
-- Fork the repository
-- Update `_data/conferences.yml`
-- Make sure it has the `title`, `year`, `id`, `link`, `deadline`, `timezone`, `date`, `place`, `sub` attributes
-    + See available timezone strings [here](https://momentjs.com/timezone/).
-- Optionally add a `note` and `abstract_deadline` in case the conference has a separate mandatory abstract deadline
-- Optionally add `hindex` (refers to h5-index from [here](https://scholar.google.com/citations?view_op=top_venues&vq=eng))
-- Example:
-    ```yaml
-    - title: BestConf
-      year: 2022
-      id: bestconf22  # title as lower case + last two digits of year
-      full_name: Best Conference for Anything  # full conference name
-      link: link-to-website.com
-      deadline: YYYY-MM-DD HH:SS
-      abstract_deadline: YYYY-MM-DD HH:SS
-      timezone: Asia/Seoul
-      place: Incheon, South Korea
-      date: September, 18-22, 2022
-      start: YYYY-MM-DD
-      end: YYYY-MM-DD
-      paperslink: link-to-full-paper-list.com
-      pwclink: link-to-papers-with-code.com
-      hindex: 100.0
-      sub: SP
-      note: Important
-    ```
-- Send a pull request
+You will need to: (1) fork the repo; (2) find the `_data/conferences.yml` file; and (3) add to that file a new entry that is formatted like this:
 
-## Forks & other useful listings
+```
+- name: GenLaw
+  description: Generative AI and Law
+  year: 2024
+  link: https://genlaw.org/2024-icml/cfp.html
+  deadline: ["2024-06-10 23:59"]
+  date: July 27
+  place: Vienna, Austria
+  tags: [AI, IP, PRIV]
+  comment: rolling deadline
+```
 
-- [geodeadlin.es][3] by @LukasMosser
-- [neuro-deadlines][4] by @tbryn
-- [ai-challenge-deadlines][5] by @dieg0as
-- [CV-oriented ai-deadlines (with an emphasis on medical images)][8] by @duducheng
-- [es-deadlines (Embedded Systems, Computer Architecture, and Cyber-physical Systems)][9] by @AlexVonB and @k0nze
-- [2019-2020 International Conferences in AI, CV, DM, NLP and Robotics][10] by @JackieTseng
-- [ccf-deadlines][11] by @ccfddl
-- [networking-deadlines (Computer Networking, Measurement)][12] by @andrewcchu
-- [ad-deadlines.com][13] by @daniel-bogdoll
-- [sec-deadlines.github.io/ (Security and Privacy)][14] by @clementfung
-- [pythondeadlin.es][15] by @jesperdramsch
-- [deadlines.openlifescience.ai (Healthcare domain conferences and workshops)][16] by @monk1337
-- [hci-deadlines.github.io (Human-Computer Interaction conferences)][17] by @makinteract
-- [ds-deadlines.github.io (Distributed Systems, Event-based Systems, Performance, and Software Engineering conferences)][18] by @ds-deadlines
-- [https://deadlines.cpusec.org/ (Computer Architecture-Security conferences)][19] by @hoseinyavarzadeh
+More details on creating the pull request may be found [here](https://www.digitalocean.com/community/tutorials/how-to-create-a-pull-request-on-github). In brief, one way to do this is to:
 
-## License
+```
+git branch test_branch
+git checkout test_branch
+<<<make your changes locally>>>
+git add .
+git commit -m 'test commit message here (please replace me)'
+git push --set-upstream origin test_branch
+git fetch upstream
+git remote -v (just checking if output looks right, no need to enter this one)
+git remote add upstream https://github.com/technology-law/tech-law-deadlines.github.io.git
+git fetch upstream
+git checkout main
+git merge upstream/main
+```
 
-This project is licensed under [MIT][1].
+## New Post: Fields Detail
 
-It uses:
 
-- [IcoMoon Icons](https://icomoon.io/#icons-icomoon): [GPL](http://www.gnu.org/licenses/gpl.html) / [CC BY4.0](http://creativecommons.org/licenses/by/4.0/)
 
-[1]: https://abhshkdz.mit-license.org/
-[2]: http://aideadlin.es/
-[3]: https://github.com/LukasMosser/geo-deadlines
-[4]: https://github.com/tbryn/neuro-deadlines
-[5]: https://github.com/dieg0as/ai-challenge-deadlines
-[6]: http://www.conferenceranks.com/#
-[8]: https://m3dv.github.io/ai-deadlines/
-[9]: https://ekut-es.github.io/es-deadlines/
-[10]: https://jackietseng.github.io/conference_call_for_paper/conferences.html
-[11]: https://ccfddl.github.io/
-[12]: https://noise-lab.net/networking-deadlines/
-[13]: https://ad-deadlines.com/
-[14]: https://sec-deadlines.github.io/
-[15]: https://pythondeadlin.es/
-[16]: https://deadlines.openlifescience.ai/
-[17]: https://hci-deadlines.github.io/
-[18]: https://ds-deadlines.github.io
-[19]: https://deadlines.cpusec.org/
+Required fileds include: `title`, `year`, `id`, `link`, `deadline`, `timezone`, `date`, `place`, `sub` attributes
+
+Read the data format description below. ***Note that the timezone format sign is inverted*** (e.g., UTC+7 is written as `Etc/GMT-7`). It is not a bug; this is inherited from the other sites I cloned. Everyone agrees this is poor formatting. I'd be happy to move to a different timezone JavaScript library that uses a friendlier format, but I don't have time for that.
+
+Descriptions of the fields:
+
+| Field name          | Description                                                  |
+| ------------------- | ------------------------------------------------------------ |
+| `title`\*           | Short conference name, without year                          |
+| `year`\*            | Year the conference is happening                             |
+| `id`\*              | Title as lower case + last two digits of year                |
+| `full_name`         | Description, or long name                                    |
+| `note`              | Additional comments, e.g., co-located conference, rolling deadline |
+| `link`\*            | URL to the conference home page                              |
+| `deadline`\*        | A list of deadlines. (details below)                         |
+| `abstract_deadline` | When the abstract is due (may be different from full paper)  |
+| `timezone`\*        | Timezone in tz format. By default is UTC-12 (AoE) >>> see below for deadline formation |
+| `date`\*            | When the conference is happening (month, day)                |
+| `start`             | When the conference or workshop starts                       |
+| `end`               | When the conference or workshop ends                         |
+| `place`\*           | Where the conference is happening (city, state or country)   |
+| `sub`\*             | One or multiple tags: `PRIV`, `IP`, `SEC`, or `AI` (topic); `JUNIOR` (junior faculty only) |
+
+Fields marked with asterisk (\*) are required, otherwise the field is optional and may not be included.
+
+
+### Deadline format
+
+The *deadline* field can contain:
+
+1. The simplest option: a date and time in ISO format. Example: `["2017-08-19 23:59"]` (Note that you need to wrap even a single deadline in a list).
+2. If a deadline is rolling, you can use a template date, just substitute the
+   year with `%y` and the year before the conference with `%Y`. Example:
+   `["%y-01-15 23:59"]` means there is a deadline on the 15th January in the
+   same year as the conference.
+2. A list of (1) or (2). Example of two rolling deadlines, with one in the end
+   of October in the year prior to the conference year, and the second in the
+   end of February in the same year as the conference:
+  ```
+  - "%Y-10-31 23:59"
+  - "%y-02-28 23:59"
+  ```
+
+On the page, all deadlines are displayed in viewer's local time (that's a feature).
+
+*Note:* If the deadline hour is `{h}:00`, it will be automatically translated into `{h-1}:59:59` to avoid pain and confusion when it happens to be midnight in local time.
+
+### Timezones
+
+The timezone is specified in `tz format`. For the text-version, use this link [timezones](https://www.healthstream.com/hlchelp/Administrator/Classes/HLC_Time_Zone_Abbreviations.htm), and enter the `livemeetings` column as the timezone in quotes. Unlike abbreviations (e.g. EST), these are un-ambiguous. Here are tz codes for some common timezones:
+
+| Common name                   | tz                                                                 |
+|-------------------------------|--------------------------------------------------------------------|
+| UTC                           | `Etc/UTC`                                                          |
+| America Pacific Time          | `America/Los_Angeles`                                              |
+| Pacific Standard Time (UTC-8) | `Etc/GMT+8` (Yes, the sign is inverted for some weird reason)      |
+| America Eastern Time          | `America/New_York`                                                 |
+| Eastern Standard Time (UTC-5) | `Etc/GMT+5`                                                        |
+| American Samoa Time (UTC-11)  | `Pacific/Samoa` or `Etc/GMT+11`. This timezone does not use DST.   |
+| Aleutian Islands              | `America/Adak`                                                     |
+
+## Credits 
+
+Website based on [ai-deadlines](https://aideadlin.es) by @abshkdz and [sec-deadlines](https://sec-deadlines.github.io ) by Bogdan Kulynych (maintained by [Clement Fung](https://clementfung.github.io/)).
+
+## Notable resources
+
+- Tiffany Li, https://tiffanyli.com/tech-ip-law-professor-resources/
+- David A. Simon, https://www.davidasimon.us/conferences
