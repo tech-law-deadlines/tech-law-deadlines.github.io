@@ -1,0 +1,813 @@
+<html>
+  <head>
+    <meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+
+<title>Tech-Law-Deadlines</title>
+<meta name="description" content="Countdowns to top LAW + {AI, Privacy, Security, IP} conference, workshop, symposia deadlines.">
+<meta name="author" content="Nathan Reitinger">
+<link rel="stylesheet" type="text/css" href="/static/css/js-year-calendar.min.css?t=1716783214" media="screen,projection">
+
+<link rel="stylesheet" type="text/css" href="/static/css/bootstrap.min.css">
+<link rel="stylesheet" type="text/css" href="/static/css/deadlines.css?t=1716783214" media="screen,projection">
+<link rel="stylesheet" type="text/css" href="/static/css/calendar.css?t=1716783214" media="screen,projection">
+
+<link rel="shortcut icon" href="/static/img/favicon.png">
+
+<script type="text/javascript" src="/static/js/js-year-calendar.js"></script>
+<script type="text/javascript" src="/static/js/jquery.min.js"></script>
+<script type="text/javascript" src="/static/js/popper.min.js"></script>
+<script type="text/javascript" src="/static/js/bootstrap.min.js"></script>
+<script type="text/javascript" src="/static/js/jquery.countdown.min.js"></script>
+<script type="text/javascript" src="/static/js/moment.min.js"></script>
+<script type="text/javascript" src="/static/js/moment-timezone-with-data.min.js"></script>
+<script type="text/javascript" src="/static/js/store.min.js"></script>
+<script type="text/javascript" src="/static/js/ouical.min.js"></script>
+<script type="text/javascript" src="/static/js/bootstrap-multiselect.min.js"></script>
+
+  </head>
+  <body>
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+  <div class="container">
+      <div style="vertical-align: middle; padding-top: 0px;">
+        <div>
+          <a class="navbar-brand" href="/" style="border-bottom: none; line-height: 0.1em;">
+          Tech-Law Deadlines<br><br>
+          </a>
+        </div>
+      </div>
+
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbar-toggler"
+      aria-controls="navbars-toggler" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbar-toggler">
+      <ul class="navbar-nav mr-auto">
+        <li>
+          <a href="/" class="nav-link" style="border-bottom: none">Countdowns</a>
+        </li>
+        <li>
+          <a href="/calendar" class="nav-link" style="border-bottom: none;">Calendar</a>
+        </li>
+      </ul>
+      <div class="twitter-github-icons">
+        <a href="https://twitter.com/share" class="twitter-share-button"
+          data-text="Countdowns to top LAW + {AI, Privacy, Security, IP} conference, workshop, symposia deadlines."
+          data-show-count="false" style="font-size: 13px;">Tweet</a>
+        <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+        &nbsp; &nbsp;
+        <iframe
+          src="https://ghbtns.com/github-btn.html?user=tech-law-deadlines&repo=tech-law-deadlines&type=star&count=true"
+          frameborder="0" scrolling="0" width="95px" height="20px"></iframe>
+      </div>
+    </div>
+  </div>
+</nav>
+    <div class="container">
+      <div class="page-header" id="conf-title">
+        <div class="row">
+          <div class="col-sm-12">
+            <h1>
+              <span id="conf-title-href"></span>
+              <span id="twitter-box"></span>
+            </h1>
+            <h3 id="conf-full-name">
+            </h3>
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-sm-12">
+            <span id="conf-subs" title="Conference subjects"></span>
+          </div>
+        </div>
+      </div>
+      <div id="page-content">
+        <div id="conf-key-facts" class="row">
+          <div class="col-12">
+            <img src="/static/img/084-calendar.svg" class="badge-link" />
+            <span id="conf-date"></span>.
+          </div>
+          <div class="col-12">
+            <img src="/static/img/072-location.svg" class="badge-link" />
+            <a id="conf-place" target="_blank" nohref></a>.
+          </div>
+          <div class="col-12">
+            <img src="/static/img/203-earth.svg" class="badge-link" />
+            <a id="conf-website" target="_blank" nohref></a>
+          </div>
+          <div id="conf-paperslink-div" class="col-12">
+            <img src="/static/img/033-books.svg" class="badge-link" />
+            Accepted Papers:
+            <a id="conf-paperslink" target="_blank" nohref></a>
+          </div>
+          <div id="conf-pwclink-div" class="col-12">
+            <div class="icon-inner pwc-icon"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" class="s-ion-icon"><path d="M88 128h48v256H88zM232 128h48v256h-48zM160 144h48v224h-48zM304 144h48v224h-48zM376 128h48v256h-48z"></path><path d="M104 104V56H16v400h88v-48H64V104zM408 56v48h40v304h-40v48h88V56z"></path></svg></div>
+            Papers with Code:
+            <a id="conf-pwclink" target="_blank" nohref></a>
+          </div>
+        </div>
+        <div id="conf-deadline-info" class="row">
+          <div class="meta deadline col-12 col-md-6">
+            Download Conference deadline:
+          </div>
+          <div id="conference-deadline" class="calendar meta col-sm-12 col-md-6">
+          </div>
+          <div class="meta deadline col-12 col-md-6">
+            Deadline in timezone from conference website:
+          </div>
+          <div class="meta col-sm-12 col-md-6">
+            <span class="deadline-time"></span>
+          </div>
+              <div class="meta col-sm-12 col-md-6">
+                Deadline in your local <span class="local-timezone">America/New_York</span> timezone:
+              </div>
+              <div class="local-timezone-hide meta col-sm-12 col-md-6">
+                <span class="deadline-local-time"></span>
+              </div>
+          </div>
+        <div id="conf-deadline-timer" class="row">
+          <div id="conf-timer" class="col-12">
+          </div>
+        </div>
+      </div>
+        <hr>
+        <footer>
+          <div class="row">
+  <div class="col-12 col-sm-12">
+    <a href="/">tech-law-deadlines.github.io</a>
+    was built and maintained from 2024 by <a href="https://linktr.ee/nathanReitinger">Nathan Reitinger</a>, inspiration from <a href="https://aideadlin.es/?sub=ML">AI Deadlines</a> and <a href="https://sec-deadlines.github.io">Sec-Deadlines</a>.<br>
+  </div>
+</div>
+<div class="row">
+  <div class="col-12 col-sm-12">
+    <div class="footer-links">
+    
+  </div>
+  </div>
+</div>
+
+        </footer>
+    </div>
+    <script type="text/javascript" charset="utf-8">
+    $(function() {
+        var url = new URL(window.location);
+        var conf = url.searchParams.get('id');
+
+        
+var subs = [];
+var _all_subs = [];
+// Get all subs
+var conf_type_data = [{"name":"Privacy","tag":"PRIV"},{"name":"Intellectual Property","tag":"IP"},{"name":"Artificial Intelligence","tag":"AI"},{"name":"Security","tag":"SEC"},{"name":"Junior Workshop","tag":"JUNIOR"}];
+var sub2name = {}; var name2sub = {};
+for (var i = 0; i < conf_type_data.length; i++) {
+    _all_subs[i] = conf_type_data[i]['sub'];
+    sub2name[conf_type_data[i]['sub']] = conf_type_data[i]['name'];
+    name2sub[conf_type_data[i]['name']] = conf_type_data[i]['sub'];
+}
+const all_subs = _all_subs;
+
+
+        // Borrowed from https://github.com/moment/moment-timezone/issues/167
+// Adds support for time zones 'UTC-12'..'UTC+12'
+function addUtcTimeZones() {
+  // Moment.js uses the IANA timezone database, which supports generic time zones like 'Etc/GMT+1'.
+  // However, the signs for these time zones are inverted compared to ISO 8601.
+  // For more details, see https://github.com/moment/moment-timezone/issues/167
+  for (let offset = -12; offset <= 12; offset++) {
+    const posixSign = offset <= 0 ? "+" : "-";
+    const isoSign = offset >= 0 ? "+" : "-";
+    const link = `Etc/GMT${posixSign}${Math.abs(
+      offset
+    )}|UTC${isoSign}${Math.abs(offset)}`;
+    moment.tz.link(link);
+  }
+}
+
+function update_filtering(data) {
+  var page_url = "";
+  store.set("tech-law-deadlines.github.io-subs", data.subs);
+
+  $(".confItem").hide();
+  for (const j in data.all_subs) {
+    const s = data.all_subs[j];
+    const identifier = "." + s + "-conf";
+    if (data.subs.includes(s)) {
+      $(identifier).show();
+    }
+  }
+
+  if (subs.length == 0) {
+    window.history.pushState("", "", page_url);
+  } else {
+    window.history.pushState("", "", page_url + "/?sub=" + data.subs.join());
+  }
+}
+
+function createCalendarFromObject(data) {
+  return createCalendar({
+    options: {
+      class: "calendar-obj",
+
+      // You can pass an ID. If you don't, one will be generated for you
+      id: data.id,
+    },
+    data: {
+      // Event title
+      title: data.title,
+
+      // Event start date
+      start: data.date,
+
+      // Event duration
+      duration: 60,
+    },
+  });
+}
+
+
+        addUtcTimeZones();
+        try {
+          var local_timezone = Intl.DateTimeFormat().resolvedOptions().timeZone;
+          $('.local-timezone').text(local_timezone.toString());
+        }
+        catch(err) {
+          $('.local-timezone-hide').hide();
+        }
+
+        
+            if (conf == "jipsa25") {
+
+              $('#conf-title-href').text("JIPSA 2025");
+              $('#conf-title-href').attr('href', "/conference?id=jipsa25");
+              // set badges
+              var subs = 'IPJUNIOR'.split(',');
+              for (let i = 0; i < subs.length; i++) {
+                var sub = subs[i].replace(" ", "");
+                var sub_element = document.createElement('span');
+                sub_element.className = "conf-sub conf-" + sub;
+                sub_element.textContent = sub2name[sub];
+                $('#conf-subs').append(sub_element);
+              }
+              // other
+              $('#conf-date').text("August 2");
+              $('#conf-place').text("New York (Cardozo), New York");
+              $('#conf-place').attr('href', "https://maps.google.com/?q=New York (Cardozo), New York")
+              $('#conf-website').text("https://forms.gle/VpjNHdmvD8oQwTTP9");
+              $('#conf-website').attr('href', "https://forms.gle/VpjNHdmvD8oQwTTP9");
+              
+                $('#conf-paperslink-div').hide();
+              
+              
+                $('#conf-pwclink-div').hide();
+              
+              var twitter_slug = '<a href="https://twitter.com/share" class="twitter-share-button" data-text="Countdown to the #JIPSA2025 deadline!" data-show-count="false" style="font-size:13px;">Tweet</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8">';
+              $('#twitter-box').html(twitter_slug);
+              
+                $('#conf-full-name').text("Junior IP Scholars Association (Summer Workshop)");
+              
+              
+                // adjust date according to deadline timezone
+                var timezone = "America/New_York" ;
+                var confDeadline = moment.tz("2024-09-15 23:59:59", timezone);
+
+                // add calendar 
+                var conferenceDeadlineCalendar = createCalendarFromObject({
+                  id:  'jipsa25',
+                  title: 'JIPSA 2025 deadline',
+                  date: confDeadline.toDate(),
+                  duration: 60,
+                })
+                document.querySelector('#conference-deadline').appendChild(conferenceDeadlineCalendar);
+
+                // render countdown timer
+                $('#conf-timer').countdown(confDeadline.toDate(), function(event) {
+                  $(this).html(event.strftime('%D days %Hh %Mm %Ss'));
+                });
+                $('.deadline-time').html(confDeadline.toString());
+
+                // convert deadline to local timezone
+                try {
+                  var localConfDeadline = moment.tz(confDeadline, local_timezone);
+                  $('.deadline-local-time').html(localConfDeadline.toString());
+                }
+                catch(err) {
+                  console.log("Error converting to local timezone.");
+                }
+              
+            }
+        
+            if (conf == "wlslsw24") {
+
+              $('#conf-title-href').text("Wiet Life Science Law Scholars Workshop 2024");
+              $('#conf-title-href').attr('href', "/conference?id=wlslsw24");
+              // set badges
+              var subs = 'IP'.split(',');
+              for (let i = 0; i < subs.length; i++) {
+                var sub = subs[i].replace(" ", "");
+                var sub_element = document.createElement('span');
+                sub_element.className = "conf-sub conf-" + sub;
+                sub_element.textContent = sub2name[sub];
+                $('#conf-subs').append(sub_element);
+              }
+              // other
+              $('#conf-date').text("September 20");
+              $('#conf-place').text("Chicago, IL");
+              $('#conf-place').attr('href', "https://maps.google.com/?q=Chicago, IL")
+              $('#conf-website').text("https://www.luc.edu/law/wiet-life-science/");
+              $('#conf-website').attr('href', "https://www.luc.edu/law/wiet-life-science/");
+              
+                $('#conf-paperslink-div').hide();
+              
+              
+                $('#conf-pwclink-div').hide();
+              
+              var twitter_slug = '<a href="https://twitter.com/share" class="twitter-share-button" data-text="Countdown to the #Wiet Life Science Law Scholars Workshop2024 deadline!" data-show-count="false" style="font-size:13px;">Tweet</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8">';
+              $('#twitter-box').html(twitter_slug);
+              
+                $('#conf-full-name').text("Loyola University Chicago School of Law’s Beazley Institute for Health Law and Policy");
+              
+              
+                // adjust date according to deadline timezone
+                var timezone = "America/Chicago" ;
+                var confDeadline = moment.tz("2024-07-01 23:59", timezone);
+
+                // add calendar 
+                var conferenceDeadlineCalendar = createCalendarFromObject({
+                  id:  'wlslsw24',
+                  title: 'Wiet Life Science Law Scholars Workshop 2024 deadline',
+                  date: confDeadline.toDate(),
+                  duration: 60,
+                })
+                document.querySelector('#conference-deadline').appendChild(conferenceDeadlineCalendar);
+
+                // render countdown timer
+                $('#conf-timer').countdown(confDeadline.toDate(), function(event) {
+                  $(this).html(event.strftime('%D days %Hh %Mm %Ss'));
+                });
+                $('.deadline-time').html(confDeadline.toString());
+
+                // convert deadline to local timezone
+                try {
+                  var localConfDeadline = moment.tz(confDeadline, local_timezone);
+                  $('.deadline-local-time').html(localConfDeadline.toString());
+                }
+                catch(err) {
+                  console.log("Error converting to local timezone.");
+                }
+              
+            }
+        
+            if (conf == "jfflstem24") {
+
+              $('#conf-title-href').text("Junior Faculty Forum on Law and STEM 2024");
+              $('#conf-title-href').attr('href', "/conference?id=jfflstem24");
+              // set badges
+              var subs = 'JUNIOR'.split(',');
+              for (let i = 0; i < subs.length; i++) {
+                var sub = subs[i].replace(" ", "");
+                var sub_element = document.createElement('span');
+                sub_element.className = "conf-sub conf-" + sub;
+                sub_element.textContent = sub2name[sub];
+                $('#conf-subs').append(sub_element);
+              }
+              // other
+              $('#conf-date').text("September 27-28");
+              $('#conf-place').text("Philadelphia, PA");
+              $('#conf-place').attr('href', "https://maps.google.com/?q=Philadelphia, PA")
+              $('#conf-website').text("https://web.cvent.com/event/fa4ac3a8-19df-465f-a40b-5275b97a6f03/summary");
+              $('#conf-website').attr('href', "https://web.cvent.com/event/fa4ac3a8-19df-465f-a40b-5275b97a6f03/summary");
+              
+                $('#conf-paperslink-div').hide();
+              
+              
+                $('#conf-pwclink-div').hide();
+              
+              var twitter_slug = '<a href="https://twitter.com/share" class="twitter-share-button" data-text="Countdown to the #Junior Faculty Forum on Law and STEM2024 deadline!" data-show-count="false" style="font-size:13px;">Tweet</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8">';
+              $('#twitter-box').html(twitter_slug);
+              
+                $('#conf-full-name').text("Northwestern, Penn, and Stanford Law");
+              
+              
+                // adjust date according to deadline timezone
+                var timezone = "America/New_York" ;
+                var confDeadline = moment.tz("2024-05-31 23:59", timezone);
+
+                // add calendar 
+                var conferenceDeadlineCalendar = createCalendarFromObject({
+                  id:  'jfflstem24',
+                  title: 'Junior Faculty Forum on Law and STEM 2024 deadline',
+                  date: confDeadline.toDate(),
+                  duration: 60,
+                })
+                document.querySelector('#conference-deadline').appendChild(conferenceDeadlineCalendar);
+
+                // render countdown timer
+                $('#conf-timer').countdown(confDeadline.toDate(), function(event) {
+                  $(this).html(event.strftime('%D days %Hh %Mm %Ss'));
+                });
+                $('.deadline-time').html(confDeadline.toString());
+
+                // convert deadline to local timezone
+                try {
+                  var localConfDeadline = moment.tz(confDeadline, local_timezone);
+                  $('.deadline-local-time').html(localConfDeadline.toString());
+                }
+                catch(err) {
+                  console.log("Error converting to local timezone.");
+                }
+              
+            }
+        
+            if (conf == "prolala24") {
+
+              $('#conf-title-href').text("ProLaLa 2024");
+              $('#conf-title-href').attr('href', "/conference?id=prolala24");
+              // set badges
+              var subs = 'AIIPPRIV'.split(',');
+              for (let i = 0; i < subs.length; i++) {
+                var sub = subs[i].replace(" ", "");
+                var sub_element = document.createElement('span');
+                sub_element.className = "conf-sub conf-" + sub;
+                sub_element.textContent = sub2name[sub];
+                $('#conf-subs').append(sub_element);
+              }
+              // other
+              $('#conf-date').text("October 22");
+              $('#conf-place').text("(location pending)");
+              $('#conf-place').attr('href', "https://maps.google.com/?q=(location pending)")
+              $('#conf-website').text("https://2024.splashcon.org/home/prolala-2024#Call-for-Contributions");
+              $('#conf-website').attr('href', "https://2024.splashcon.org/home/prolala-2024#Call-for-Contributions");
+              
+                $('#conf-paperslink-div').hide();
+              
+              
+                $('#conf-pwclink-div').hide();
+              
+              var twitter_slug = '<a href="https://twitter.com/share" class="twitter-share-button" data-text="Countdown to the #ProLaLa2024 deadline!" data-show-count="false" style="font-size:13px;">Tweet</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8">';
+              $('#twitter-box').html(twitter_slug);
+              
+                $('#conf-full-name').text("Programming Languages and Law");
+              
+              
+                // adjust date according to deadline timezone
+                var timezone =  "America/New_York" ;
+                var confDeadline = moment.tz("2024-07-15 23:59", timezone);
+
+                // add calendar 
+                var conferenceDeadlineCalendar = createCalendarFromObject({
+                  id:  'prolala24',
+                  title: 'ProLaLa 2024 deadline',
+                  date: confDeadline.toDate(),
+                  duration: 60,
+                })
+                document.querySelector('#conference-deadline').appendChild(conferenceDeadlineCalendar);
+
+                // render countdown timer
+                $('#conf-timer').countdown(confDeadline.toDate(), function(event) {
+                  $(this).html(event.strftime('%D days %Hh %Mm %Ss'));
+                });
+                $('.deadline-time').html(confDeadline.toString());
+
+                // convert deadline to local timezone
+                try {
+                  var localConfDeadline = moment.tz(confDeadline, local_timezone);
+                  $('.deadline-local-time').html(localConfDeadline.toString());
+                }
+                catch(err) {
+                  console.log("Error converting to local timezone.");
+                }
+              
+            }
+        
+            if (conf == "genlaw24") {
+
+              $('#conf-title-href').text("GenLaw 2024");
+              $('#conf-title-href').attr('href', "/conference?id=genlaw24");
+              // set badges
+              var subs = 'AIIPPRIV'.split(',');
+              for (let i = 0; i < subs.length; i++) {
+                var sub = subs[i].replace(" ", "");
+                var sub_element = document.createElement('span');
+                sub_element.className = "conf-sub conf-" + sub;
+                sub_element.textContent = sub2name[sub];
+                $('#conf-subs').append(sub_element);
+              }
+              // other
+              $('#conf-date').text("July 27");
+              $('#conf-place').text("Vienna, Austria");
+              $('#conf-place').attr('href', "https://maps.google.com/?q=Vienna, Austria")
+              $('#conf-website').text("https://genlaw.org/2024-icml/cfp.html");
+              $('#conf-website').attr('href', "https://genlaw.org/2024-icml/cfp.html");
+              
+                $('#conf-paperslink-div').hide();
+              
+              
+                $('#conf-pwclink-div').hide();
+              
+              var twitter_slug = '<a href="https://twitter.com/share" class="twitter-share-button" data-text="Countdown to the #GenLaw2024 deadline!" data-show-count="false" style="font-size:13px;">Tweet</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8">';
+              $('#twitter-box').html(twitter_slug);
+              
+                $('#conf-full-name').text("Generative AI and Law");
+              
+              
+                // adjust date according to deadline timezone
+                var timezone =  "America/New_York" ;
+                var confDeadline = moment.tz("2024-06-10 23:59", timezone);
+
+                // add calendar 
+                var conferenceDeadlineCalendar = createCalendarFromObject({
+                  id:  'genlaw24',
+                  title: 'GenLaw 2024 deadline',
+                  date: confDeadline.toDate(),
+                  duration: 60,
+                })
+                document.querySelector('#conference-deadline').appendChild(conferenceDeadlineCalendar);
+
+                // render countdown timer
+                $('#conf-timer').countdown(confDeadline.toDate(), function(event) {
+                  $(this).html(event.strftime('%D days %Hh %Mm %Ss'));
+                });
+                $('.deadline-time').html(confDeadline.toString());
+
+                // convert deadline to local timezone
+                try {
+                  var localConfDeadline = moment.tz(confDeadline, local_timezone);
+                  $('.deadline-local-time').html(localConfDeadline.toString());
+                }
+                catch(err) {
+                  console.log("Error converting to local timezone.");
+                }
+              
+            }
+        
+            if (conf == "ipsc24") {
+
+              $('#conf-title-href').text("IPSC 2024");
+              $('#conf-title-href').attr('href', "/conference?id=ipsc24");
+              // set badges
+              var subs = 'IP'.split(',');
+              for (let i = 0; i < subs.length; i++) {
+                var sub = subs[i].replace(" ", "");
+                var sub_element = document.createElement('span');
+                sub_element.className = "conf-sub conf-" + sub;
+                sub_element.textContent = sub2name[sub];
+                $('#conf-subs').append(sub_element);
+              }
+              // other
+              $('#conf-date').text("August 8-9");
+              $('#conf-place').text("Berkeley, CA");
+              $('#conf-place').attr('href', "https://maps.google.com/?q=Berkeley, CA")
+              $('#conf-website').text("https://www.law.berkeley.edu/event/24th-annual-intellectual-property-scholars-conference/2024-08-08/");
+              $('#conf-website').attr('href', "https://www.law.berkeley.edu/event/24th-annual-intellectual-property-scholars-conference/2024-08-08/");
+              
+                $('#conf-paperslink-div').hide();
+              
+              
+                $('#conf-pwclink-div').hide();
+              
+              var twitter_slug = '<a href="https://twitter.com/share" class="twitter-share-button" data-text="Countdown to the #IPSC2024 deadline!" data-show-count="false" style="font-size:13px;">Tweet</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8">';
+              $('#twitter-box').html(twitter_slug);
+              
+                $('#conf-full-name').text("Intellectual Property Scholars Conference");
+              
+              
+                // adjust date according to deadline timezone
+                var timezone =  "America/New_York" ;
+                var confDeadline = moment.tz("2024-05-17 23:59", timezone);
+
+                // add calendar 
+                var conferenceDeadlineCalendar = createCalendarFromObject({
+                  id:  'ipsc24',
+                  title: 'IPSC 2024 deadline',
+                  date: confDeadline.toDate(),
+                  duration: 60,
+                })
+                document.querySelector('#conference-deadline').appendChild(conferenceDeadlineCalendar);
+
+                // render countdown timer
+                $('#conf-timer').countdown(confDeadline.toDate(), function(event) {
+                  $(this).html(event.strftime('%D days %Hh %Mm %Ss'));
+                });
+                $('.deadline-time').html(confDeadline.toString());
+
+                // convert deadline to local timezone
+                try {
+                  var localConfDeadline = moment.tz(confDeadline, local_timezone);
+                  $('.deadline-local-time').html(localConfDeadline.toString());
+                }
+                catch(err) {
+                  console.log("Error converting to local timezone.");
+                }
+              
+            }
+        
+            if (conf == "plsceurope24") {
+
+              $('#conf-title-href').text("PLSC Europe 2024");
+              $('#conf-title-href').attr('href', "/conference?id=plsceurope24");
+              // set badges
+              var subs = 'PRIV'.split(',');
+              for (let i = 0; i < subs.length; i++) {
+                var sub = subs[i].replace(" ", "");
+                var sub_element = document.createElement('span');
+                sub_element.className = "conf-sub conf-" + sub;
+                sub_element.textContent = sub2name[sub];
+                $('#conf-subs').append(sub_element);
+              }
+              // other
+              $('#conf-date').text("October 24");
+              $('#conf-place').text("Amsterdam, Netherlands");
+              $('#conf-place').attr('href', "https://maps.google.com/?q=Amsterdam, Netherlands")
+              $('#conf-website').text("https://www.ivir.nl/plsce2024/");
+              $('#conf-website').attr('href', "https://www.ivir.nl/plsce2024/");
+              
+                $('#conf-paperslink-div').hide();
+              
+              
+                $('#conf-pwclink-div').hide();
+              
+              var twitter_slug = '<a href="https://twitter.com/share" class="twitter-share-button" data-text="Countdown to the #PLSC Europe2024 deadline!" data-show-count="false" style="font-size:13px;">Tweet</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8">';
+              $('#twitter-box').html(twitter_slug);
+              
+                $('#conf-full-name').text("Privacy Law Scholars Conference Europe");
+              
+              
+                // adjust date according to deadline timezone
+                var timezone = "Europe/London" ;
+                var confDeadline = moment.tz("2024-05-10 23:59", timezone);
+
+                // add calendar 
+                var conferenceDeadlineCalendar = createCalendarFromObject({
+                  id:  'plsceurope24',
+                  title: 'PLSC Europe 2024 deadline',
+                  date: confDeadline.toDate(),
+                  duration: 60,
+                })
+                document.querySelector('#conference-deadline').appendChild(conferenceDeadlineCalendar);
+
+                // render countdown timer
+                $('#conf-timer').countdown(confDeadline.toDate(), function(event) {
+                  $(this).html(event.strftime('%D days %Hh %Mm %Ss'));
+                });
+                $('.deadline-time').html(confDeadline.toString());
+
+                // convert deadline to local timezone
+                try {
+                  var localConfDeadline = moment.tz(confDeadline, local_timezone);
+                  $('.deadline-local-time').html(localConfDeadline.toString());
+                }
+                catch(err) {
+                  console.log("Error converting to local timezone.");
+                }
+              
+            }
+        
+            if (conf == "plsc24") {
+
+              $('#conf-title-href').text("PLSC 2024");
+              $('#conf-title-href').attr('href', "/conference?id=plsc24");
+              // set badges
+              var subs = 'PRIV'.split(',');
+              for (let i = 0; i < subs.length; i++) {
+                var sub = subs[i].replace(" ", "");
+                var sub_element = document.createElement('span');
+                sub_element.className = "conf-sub conf-" + sub;
+                sub_element.textContent = sub2name[sub];
+                $('#conf-subs').append(sub_element);
+              }
+              // other
+              $('#conf-date').text("May 30-31");
+              $('#conf-place').text("Washington, DC");
+              $('#conf-place').attr('href', "https://maps.google.com/?q=Washington, DC")
+              $('#conf-website').text("https://privacyscholars.org/plsc-2024-details/");
+              $('#conf-website').attr('href', "https://privacyscholars.org/plsc-2024-details/");
+              
+                $('#conf-paperslink-div').hide();
+              
+              
+                $('#conf-pwclink-div').hide();
+              
+              var twitter_slug = '<a href="https://twitter.com/share" class="twitter-share-button" data-text="Countdown to the #PLSC2024 deadline!" data-show-count="false" style="font-size:13px;">Tweet</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8">';
+              $('#twitter-box').html(twitter_slug);
+              
+                $('#conf-full-name').text("Privacy Law Scholars Conference");
+              
+              
+                // adjust date according to deadline timezone
+                var timezone = "America/Los_Angeles" ;
+                var confDeadline = moment.tz("2024-01-30 23:59", timezone);
+
+                // add calendar 
+                var conferenceDeadlineCalendar = createCalendarFromObject({
+                  id:  'plsc24',
+                  title: 'PLSC 2024 deadline',
+                  date: confDeadline.toDate(),
+                  duration: 60,
+                })
+                document.querySelector('#conference-deadline').appendChild(conferenceDeadlineCalendar);
+
+                // render countdown timer
+                $('#conf-timer').countdown(confDeadline.toDate(), function(event) {
+                  $(this).html(event.strftime('%D days %Hh %Mm %Ss'));
+                });
+                $('.deadline-time').html(confDeadline.toString());
+
+                // convert deadline to local timezone
+                try {
+                  var localConfDeadline = moment.tz(confDeadline, local_timezone);
+                  $('.deadline-local-time').html(localConfDeadline.toString());
+                }
+                catch(err) {
+                  console.log("Error converting to local timezone.");
+                }
+              
+            }
+        
+            if (conf == "cs&law24") {
+
+              $('#conf-title-href').text("CS & Law 2024");
+              $('#conf-title-href').attr('href', "/conference?id=cs&law24");
+              // set badges
+              var subs = 'PRIVAIIPSEC'.split(',');
+              for (let i = 0; i < subs.length; i++) {
+                var sub = subs[i].replace(" ", "");
+                var sub_element = document.createElement('span');
+                sub_element.className = "conf-sub conf-" + sub;
+                sub_element.textContent = sub2name[sub];
+                $('#conf-subs').append(sub_element);
+              }
+              // other
+              $('#conf-date').text("March 12 - 13");
+              $('#conf-place').text("Boston, MA");
+              $('#conf-place').attr('href', "https://maps.google.com/?q=Boston, MA")
+              $('#conf-website').text("https://computersciencelaw.org/2024-2/cfp/");
+              $('#conf-website').attr('href', "https://computersciencelaw.org/2024-2/cfp/");
+              
+                $('#conf-paperslink-div').hide();
+              
+              
+                $('#conf-pwclink-div').hide();
+              
+              var twitter_slug = '<a href="https://twitter.com/share" class="twitter-share-button" data-text="Countdown to the #CS & Law2024 deadline!" data-show-count="false" style="font-size:13px;">Tweet</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8">';
+              $('#twitter-box').html(twitter_slug);
+              
+                $('#conf-full-name').text("Symposium on Computer Science and Law");
+              
+              
+                // adjust date according to deadline timezone
+                var timezone =  "America/New_York" ;
+                var confDeadline = moment.tz("2023-10-06 23:59", timezone);
+
+                // add calendar 
+                var conferenceDeadlineCalendar = createCalendarFromObject({
+                  id:  'cs&law24',
+                  title: 'CS & Law 2024 deadline',
+                  date: confDeadline.toDate(),
+                  duration: 60,
+                })
+                document.querySelector('#conference-deadline').appendChild(conferenceDeadlineCalendar);
+
+                // render countdown timer
+                $('#conf-timer').countdown(confDeadline.toDate(), function(event) {
+                  $(this).html(event.strftime('%D days %Hh %Mm %Ss'));
+                });
+                $('.deadline-time').html(confDeadline.toString());
+
+                // convert deadline to local timezone
+                try {
+                  var localConfDeadline = moment.tz(confDeadline, local_timezone);
+                  $('.deadline-local-time').html(localConfDeadline.toString());
+                }
+                catch(err) {
+                  console.log("Error converting to local timezone.");
+                }
+              
+            }
+        
+    });
+    (function (i, s, o, g, r, a, m) {
+  i["GoogleAnalyticsObject"] = r;
+  (i[r] =
+    i[r] ||
+    function () {
+      (i[r].q = i[r].q || []).push(arguments);
+    }),
+    (i[r].l = 1 * new Date());
+  (a = s.createElement(o)), (m = s.getElementsByTagName(o)[0]);
+  a.async = 1;
+  a.src = g;
+  m.parentNode.insertBefore(a, m);
+})(
+  window,
+  document,
+  "script",
+  "https://www.google-analytics.com/analytics.js",
+  "ga"
+);
+ga("create", "", "auto");
+ga("send", "pageview");
+
+    </script>
+  </body>
+</html>

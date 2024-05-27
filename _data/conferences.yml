@@ -1,93 +1,120 @@
 ---
 
-- name: JIPSA
-  description: "Junior IP Scholars Association (Summer Workshop)"
-  year: 2024
-  link: "https://forms.gle/VpjNHdmvD8oQwTTP9"
-  deadline: ["2024-06-03 23:59"]
-  timezone: "America/New_York"
-  date: August 2
+
+- title: JIPSA
+  full_name: "Junior IP Scholars Association (Summer Workshop)"
+  year: 2025
+  id: jipsa25
+  link: https://forms.gle/VpjNHdmvD8oQwTTP9
+  deadline: '2024-09-15 23:59:59'
+  timezone: America/New_York
   place: New York (Cardozo), New York
-  tags: [IP, JUNIOR]
+  date: August 2
+  start: 2024-08-02
+  end: 2024-08-02
+  sub: ["IP", "JUNIOR"]
 
-
-- name: Wiet Life Science Law Scholars Workshop
-  description: "Loyola University Chicago School of Law’s Beazley Institute for Health Law and Policy"
+- title: Wiet Life Science Law Scholars Workshop
+  full_name: "Loyola University Chicago School of Law’s Beazley Institute for Health Law and Policy"
   year: 2024
-  link: "https://www.luc.edu/law/wiet-life-science/"
+  id: wlslsw24
+  link: https://www.luc.edu/law/wiet-life-science/
   deadline: ["2024-07-01 23:59"]
-  timezone: "America/Chicago"
+  timezone: America/Chicago
   date: September 20
+  start: 2024-09-10
+  end: 2024-09-10
   place: Chicago, IL
-  tags: [IP]
+  sub: ["IP"]
 
 
-- name: Junior Faculty Forum on Law and STEM
-  description: "Northwestern, Penn, and Stanford Law"
+- title: Junior Faculty Forum on Law and STEM
+  full_name: "Northwestern, Penn, and Stanford Law"
   year: 2024
+  id: jfflstem24
   link: "https://web.cvent.com/event/fa4ac3a8-19df-465f-a40b-5275b97a6f03/summary"
   deadline: ["2024-05-31 23:59"]
   timezone: "America/New_York"
   date: September 27-28
   place: Philadelphia, PA
-  tags: [JUNIOR]
-  comment: in person
+  sub: ["JUNIOR"]
+  start: 2024-09-27
+  end: 2024-09-28
+  note: in person
 
-- name: ProLaLa
-  description: Programming Languages and Law
+- title: ProLaLa
+  full_name: Programming Languages and Law
   year: 2024
+  id: prolala24
   link: "https://2024.splashcon.org/home/prolala-2024#Call-for-Contributions"
   deadline: ["2024-07-15 23:59"]
   date: October 22
   place: (location pending)
-  tags: [AI, IP, PRIV]
+  start: 2024-10-22
+  end: 2024-10-22
+  sub: ["AI", "IP", "PRIV"]
 
-- name: GenLaw
-  description: Generative AI and Law
+- title: GenLaw
+  full_name: Generative AI and Law
   year: 2024
+  id: genlaw24
   link: "https://genlaw.org/2024-icml/cfp.html"
   deadline: ["2024-06-10 23:59"]
   date: July 27
   place: Vienna, Austria
-  tags: [AI, IP, PRIV]
-  comment: rolling deadline
+  sub: ["AI", "IP", "PRIV"]
+  start: 2024-07-24
+  end: 2024-07-24
+  note: rolling deadline
 
-- name: IPSC
-  description: Intellectual Property Scholars Conference
+- title: IPSC
+  full_name: Intellectual Property Scholars Conference
   year: 2024
+  id: ipsc24
   link: "https://www.law.berkeley.edu/event/24th-annual-intellectual-property-scholars-conference/2024-08-08/"
   deadline: ["2024-05-17 23:59"]
   date: August 8-9
   place: Berkeley, CA
-  tags: [IP]
+  start: 2024-08-08
+  end: 2024-08-09
+  sub: ["IP"]
 
 
-- name: PLSC Europe
-  description: Privacy Law Scholars Conference Europe
+- title: PLSC Europe
+  full_name: Privacy Law Scholars Conference Europe
   year: 2024
+  id: plsceurope24
   link: "https://www.ivir.nl/plsce2024/"
   deadline: ["2024-05-10 23:59"]
   timezone: "Europe/London"
   date: October 24
   place: Amsterdam, Netherlands
-  tags: [PRIV]
+  start: 2024-10-24
+  end: 2024-10-24
+  sub: ["PRIV"]
 
-- name: PLSC
-  description: "Privacy Law Scholars Conference"
+- title: PLSC
+  full_name: "Privacy Law Scholars Conference"
   year: 2024
+  id: plsc24
   link: "https://privacyscholars.org/plsc-2024-details/"
   deadline: ["2024-01-30 23:59"]
   timezone: "America/Los_Angeles"
   date: May 30-31
+  start: 2024-05-30
+  end: 2024-05-31
   place: Washington, DC
-  tags: [PRIV]
+  sub: ["PRIV"]
 
-- name: "CS & Law"
-  description: Symposium on Computer Science and Law
+- title: "CS & Law"
+  full_name: Symposium on Computer Science and Law
   year: 2024
+  id: cs&law24
   link: "https://computersciencelaw.org/2024-2/cfp/"
   deadline: ["2023-10-06 23:59"]
   date: March 12 - 13
   place: Boston, MA
-  tags: [PRIV, AI, IP, SEC]
+  start: 2024-03-12
+  end: 2024-03-13
+  sub: ["PRIV", "AI", "IP", "SEC"]
 
