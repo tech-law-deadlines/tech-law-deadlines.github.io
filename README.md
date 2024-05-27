@@ -14,6 +14,8 @@
 
 ## Adding or Updating a Conference
 
+> :warning: **HELP ME**: If you find the following steps and directions hard to parse, send me an email with a conference you are interested in adding! nathan.reitinger@gmail.com
+
 You will need to: (1) fork the repo; (2) find the `_data/conferences.yml` file; and (3) add to that file a new entry that is formatted like this:
 
 ```
