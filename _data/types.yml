@@ -1,0 +1,11 @@
+---
+- name: Privacy
+  tag: PRIV
+- name: Intellectual Property
+  tag: IP
+- name: Artificial Intelligence
+  tag: AI
+- name: Security
+  tag: SEC
+- name: Junior Workshop
+  tag: JUNIOR
