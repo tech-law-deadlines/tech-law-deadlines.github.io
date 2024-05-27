@@ -3,14 +3,14 @@
 
 - title: JIPSA
   full_name: "Junior IP Scholars Association (Summer Workshop)"
-  year: 2025
-  id: jipsa25
+  year: 2024
+  id: jipsa24
   link: https://forms.gle/VpjNHdmvD8oQwTTP9
-  deadline: '2024-09-15 23:59:59'
+  deadline: '2024-06-03 23:59:59'
   timezone: America/New_York
   place: New York (Cardozo), New York
-  date: August 2
-  start: 2024-08-02
+  date: August 1-2
+  start: 2024-08-01
   end: 2024-08-02
   sub: ["IP", "JUNIOR"]
 
