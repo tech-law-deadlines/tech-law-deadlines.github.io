@@ -26,10 +26,14 @@ h3 {
   /* font-weight: 300; */
 }
 
+
+
+/*https://codepen.io/havardob/pen/WNQwvze*/
 h1 {
-  margin: 0 0 10px;
-  font-size: 30px;
-  line-height: 35px;
+ color: black;
+ font-size: calc(1em + 6vw);
+ font-weight: 900;
+ text-shadow: -0.0075em 0.0075em 0 #fef2f6, 0.005em 0.005em 0 #f6a5c1, 0.01em 0.01em 0 #f7aac4, 0.015em 0.015em #f7aec7, 0.02em 0.02em 0 #f8b3ca, 0.025em 0.025em 0 #f8b7cd, 0.03em 0.03em 0 #f8bcd0, 0.035em 0.035em 0 #f9c0d3;
 }
 
 h2 {
@@ -129,7 +133,7 @@ footer {
 
 .deadline,
 .meta {
-  font-size: 13px;
+  font-size: 15px;
 }
 
 .note {
@@ -139,7 +143,7 @@ footer {
 
 .timer,
 .timer-small {
-  font-size: 20px;
+  font-size: 30px;
   font-weight: 400;
 }
 
@@ -162,10 +166,20 @@ footer {
 }
 
 .conf-sub {
-  color: rgb(36, 101, 191);
-  background: rgba(236, 240, 241, 0.7);
+  /*color: rgb(36, 101, 191);*/
+  /*background: rgb(2,0,36);*/
+  /*background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 35%, rgba(0,212,255,1) 100%);*/
   font-size: 13px;
   padding: 3px 5px;
+
+  background: rgba( 255, 255, 255, 0.4 );
+  box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );
+  backdrop-filter: blur( 2px );
+  -webkit-backdrop-filter: blur( 2px );
+  border-radius: 10px;
+  border: 1px solid rgba( 255, 255, 255, 0.18 );
+
+
   margin-right: 8px;
   cursor: pointer;
   font-weight: 300;
