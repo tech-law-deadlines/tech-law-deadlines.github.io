@@ -6,8 +6,8 @@
   year: 2024
   id: jipsa24
   link: https://forms.gle/VpjNHdmvD8oQwTTP9
-  deadline: '2024-06-03 23:59:59'
-  timezone: America/New_York
+  deadline: '2024-06-03 23:59'
+  timezone: "America/New_York"
   place: New York (Cardozo), New York
   date: August 1-2
   start: 2024-08-01
@@ -20,7 +20,7 @@
   id: wlslsw24
   link: https://www.luc.edu/law/wiet-life-science/
   deadline: ["2024-07-01 23:59"]
-  timezone: America/Chicago
+  timezone: "America/Chicago"
   date: September 20
   start: 2024-09-10
   end: 2024-09-10
@@ -48,6 +48,7 @@
   id: prolala24
   link: "https://2024.splashcon.org/home/prolala-2024#Call-for-Contributions"
   deadline: ["2024-07-15 23:59"]
+  timezone: "UTC-12"
   date: October 22
   place: (location pending)
   start: 2024-10-22
@@ -60,6 +61,7 @@
   id: genlaw24
   link: "https://genlaw.org/2024-icml/cfp.html"
   deadline: ["2024-06-10 23:59"]
+  timezone: "UTC-12"
   date: July 27
   place: Vienna, Austria
   sub: ["AI", "IP", "PRIV"]
@@ -73,6 +75,7 @@
   id: ipsc24
   link: "https://www.law.berkeley.edu/event/24th-annual-intellectual-property-scholars-conference/2024-08-08/"
   deadline: ["2024-05-17 23:59"]
+  timezone: "America/Los_Angeles"
   date: August 8-9
   place: Berkeley, CA
   start: 2024-08-08
@@ -112,6 +115,7 @@
   id: "csandlaw24"
   link: "https://computersciencelaw.org/2024-2/cfp/"
   deadline: ["2023-10-06 23:59"]
+  timezone: "UTC-12"
   date: March 12 - 13
   place: Boston, MA
   start: 2024-03-12

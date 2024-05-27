@@ -191,7 +191,10 @@
           // convert deadline to local timezone
           try {
             var localConfDate = moment.tz(confDate, local_timezone);
-            $('#{{conf.id}} .deadline-time').html(localConfDate.toString());
+            var formattedTime = moment(localConfDate).format("dddd, MMMM Do, YYYY h:mm A")
+
+            // alert(formattedTime)
+            $('#{{conf.id}} .deadline-time').html(formattedTime.toString());
           }
           catch(err) {
             console.log("Error converting to local timezone.");
