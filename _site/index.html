@@ -7,11 +7,11 @@
 <title>Tech-Law-Deadlines</title>
 <meta name="description" content="Countdowns to top LAW + {AI, Privacy, Security, IP} conference, workshop, symposia deadlines.">
 <meta name="author" content="Nathan Reitinger">
-<link rel="stylesheet" type="text/css" href="/static/css/js-year-calendar.min.css?t=1716783214" media="screen,projection">
+<link rel="stylesheet" type="text/css" href="/static/css/js-year-calendar.min.css?t=1716783686" media="screen,projection">
 
 <link rel="stylesheet" type="text/css" href="/static/css/bootstrap.min.css">
-<link rel="stylesheet" type="text/css" href="/static/css/deadlines.css?t=1716783214" media="screen,projection">
-<link rel="stylesheet" type="text/css" href="/static/css/calendar.css?t=1716783214" media="screen,projection">
+<link rel="stylesheet" type="text/css" href="/static/css/deadlines.css?t=1716783686" media="screen,projection">
+<link rel="stylesheet" type="text/css" href="/static/css/calendar.css?t=1716783686" media="screen,projection">
 
 <link rel="shortcut icon" href="/static/img/favicon.png">
 
@@ -95,24 +95,24 @@
                         style="display: none"
                       >
                         
-                        <option value="" id="-checkbox">
-                          Privacy ()
+                        <option value="PRIV" id="PRIV-checkbox">
+                          Privacy (PRIV)
                         </option>
                         
-                        <option value="" id="-checkbox">
-                          Intellectual Property ()
+                        <option value="IP" id="IP-checkbox">
+                          Intellectual Property (IP)
                         </option>
                         
-                        <option value="" id="-checkbox">
-                          Artificial Intelligence ()
+                        <option value="AI" id="AI-checkbox">
+                          Artificial Intelligence (AI)
                         </option>
                         
-                        <option value="" id="-checkbox">
-                          Security ()
+                        <option value="SEC" id="SEC-checkbox">
+                          Security (SEC)
                         </option>
                         
-                        <option value="" id="-checkbox">
-                          Junior Workshop ()
+                        <option value="JUNIOR" id="JUNIOR-checkbox">
+                          Junior Workshop (JUNIOR)
                         </option>
                         
                       </select>
@@ -695,7 +695,7 @@
 var subs = [];
 var _all_subs = [];
 // Get all subs
-var conf_type_data = [{"name":"Privacy","tag":"PRIV"},{"name":"Intellectual Property","tag":"IP"},{"name":"Artificial Intelligence","tag":"AI"},{"name":"Security","tag":"SEC"},{"name":"Junior Workshop","tag":"JUNIOR"}];
+var conf_type_data = [{"name":"Privacy","sub":"PRIV","color":"#ffd300"},{"name":"Intellectual Property","sub":"IP","color":"#deff0a"},{"name":"Artificial Intelligence","sub":"AI","color":"#0aefff"},{"name":"Security","sub":"SEC","color":"#147df5"},{"name":"Junior Workshop","sub":"JUNIOR","color":"#0aff99"}];
 var sub2name = {}; var name2sub = {};
 for (var i = 0; i < conf_type_data.length; i++) {
     _all_subs[i] = conf_type_data[i]['sub'];
