@@ -6,7 +6,7 @@ domain: "tech-law-deadlines.github.io"
 baseurl: ""
 
 github_username: tech-law-deadlines
-github_repo: tech-law-deadlines
+github_repo: tech-law-deadlines.github.io
 
 markdown: kramdown
 ga_id:
