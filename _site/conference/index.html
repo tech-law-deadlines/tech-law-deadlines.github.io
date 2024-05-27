@@ -7,11 +7,11 @@
 <title>Tech-Law-Deadlines</title>
 <meta name="description" content="Countdowns to top LAW + {AI, Privacy, Security, IP} conference, workshop, symposia deadlines.">
 <meta name="author" content="Nathan Reitinger">
-<link rel="stylesheet" type="text/css" href="/static/css/js-year-calendar.min.css?t=1716783686" media="screen,projection">
+<link rel="stylesheet" type="text/css" href="/static/css/js-year-calendar.min.css?t=1716784000" media="screen,projection">
 
 <link rel="stylesheet" type="text/css" href="/static/css/bootstrap.min.css">
-<link rel="stylesheet" type="text/css" href="/static/css/deadlines.css?t=1716783686" media="screen,projection">
-<link rel="stylesheet" type="text/css" href="/static/css/calendar.css?t=1716783686" media="screen,projection">
+<link rel="stylesheet" type="text/css" href="/static/css/deadlines.css?t=1716784000" media="screen,projection">
+<link rel="stylesheet" type="text/css" href="/static/css/calendar.css?t=1716784000" media="screen,projection">
 
 <link rel="shortcut icon" href="/static/img/favicon.png">
 
@@ -724,10 +724,10 @@ function createCalendarFromObject(data) {
               
             }
         
-            if (conf == "cs&law24") {
+            if (conf == "csandlaw24") {
 
-              $('#conf-title-href').text("CS & Law 2024");
-              $('#conf-title-href').attr('href', "/conference?id=cs&law24");
+              $('#conf-title-href').text("CSandLaw 2024");
+              $('#conf-title-href').attr('href', "/conference?id=csandlaw24");
               // set badges
               var subs = 'PRIVAIIPSEC'.split(',');
               for (let i = 0; i < subs.length; i++) {
@@ -749,7 +749,7 @@ function createCalendarFromObject(data) {
               
                 $('#conf-pwclink-div').hide();
               
-              var twitter_slug = '<a href="https://twitter.com/share" class="twitter-share-button" data-text="Countdown to the #CS & Law2024 deadline!" data-show-count="false" style="font-size:13px;">Tweet</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8">';
+              var twitter_slug = '<a href="https://twitter.com/share" class="twitter-share-button" data-text="Countdown to the #CSandLaw2024 deadline!" data-show-count="false" style="font-size:13px;">Tweet</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8">';
               $('#twitter-box').html(twitter_slug);
               
                 $('#conf-full-name').text("Symposium on Computer Science and Law");
@@ -761,8 +761,8 @@ function createCalendarFromObject(data) {
 
                 // add calendar 
                 var conferenceDeadlineCalendar = createCalendarFromObject({
-                  id:  'cs&law24',
-                  title: 'CS & Law 2024 deadline',
+                  id:  'csandlaw24',
+                  title: 'CSandLaw 2024 deadline',
                   date: confDeadline.toDate(),
                   duration: 60,
                 })
