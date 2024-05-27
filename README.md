@@ -19,15 +19,18 @@
 You will need to: (1) fork the repo; (2) find the `_data/conferences.yml` file; and (3) add to that file a new entry that is formatted like this:
 
 ```
-- name: GenLaw
-  description: Generative AI and Law
+- title: GenLaw
+  full_name: Generative AI and Law
   year: 2024
-  link: https://genlaw.org/2024-icml/cfp.html
+  id: genlaw24
+  link: "https://genlaw.org/2024-icml/cfp.html"
   deadline: ["2024-06-10 23:59"]
   date: July 27
   place: Vienna, Austria
-  tags: [AI, IP, PRIV]
-  comment: rolling deadline
+  sub: ["AI", "IP", "PRIV"]
+  start: 2024-07-24
+  end: 2024-07-24
+  note: rolling deadline
 ```
 
 More details on creating the pull request may be found [here](https://www.digitalocean.com/community/tutorials/how-to-create-a-pull-request-on-github). In brief, one way to do this is to:
