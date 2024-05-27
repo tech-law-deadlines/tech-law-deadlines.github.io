@@ -1,12 +1,9 @@
 title: Tech-Law Workshop Deadlines
 description: Countdowns to technology-law conference deadlines, including privacy, IP, and AI.
 author: Nathan Reitinger
-
 domain: "tech-law-deadlines.github.io"
 baseurl: ""
-
 github_username: tech-law-deadlines
 github_repo: tech-law-deadlines
-
 markdown: kramdown
 
