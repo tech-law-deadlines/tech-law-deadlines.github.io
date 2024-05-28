@@ -17,9 +17,17 @@
                   </h1>
                 </div>
                 <div class="meta col-12">
-                  {{ site.description }}.
-                  To add/edit a conference, <a target="_blank" href="//github.com/{{ site.github_username }}/{{ site.github_repo }}">send in a pull request</a>.
+                  {{ site.description }} To add/edit a conference, <a target="_blank" href="//github.com/{{ site.github_username }}/{{ site.github_repo }}">send in a pull request</a>. <span class="local-timezone-hide">
+                  Deadlines are shown in <b><span class="local-timezone">America/New_York</span></b> time.
+                  To view them in conference website timezones, click on them. 
+                </span> <span class="local-timezone-hide">
+                  Deadlines are shown in <span class="local-timezone">America/New_York</span> time.
+                  To view them in conference website timezones, click on them.
+                </span>
                 </div>
+
+
+
             </div>
             <br>
             <div class="row">
@@ -49,19 +57,7 @@
                 </div>
               </form>
             </div>
-            <div class="row">
-              <div class="meta col-12">
-                <span class="local-timezone-hide">
-                  Deadlines are shown in <span class="local-timezone">America/New_York</span> time.
-                  To view them in conference website timezones, click on them.
-                </span>
-              </div>
-              <div class="meta col-12">
-                You can optionally export all deadlines to
-                <a href="https://calendar.google.com/calendar/r?cid={{ site.url }}/ai-deadlines.ics">Google Calendar</a> or
-                <a href="/ai-deadlines.ics">.ics</a>.
-              </div>
-            </div>
+
         </div>
         <div id="confs">
         <div id="coming_confs">
