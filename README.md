@@ -1,8 +1,8 @@
-<img src="static/img/logo.svg" alt="logo" width="25%" />
+<img align="center" src="static/img/logo.svg" alt="logo" width="25%" />
 
 # Tech-Law Deadlines Countdown
 
-<!-- TOC start (generated with https://github.com/derlin/bitdowntoc) -->
+<!-- TOC start (generated with httpss://github.com/derlin/bitdowntoc) -->
 
 - [Tech-Law Deadlines Countdown](#tech-law-deadlines-countdown)
    * [Adding or Updating a Conference](#adding-or-updating-a-conference)
