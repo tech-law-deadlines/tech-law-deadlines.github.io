@@ -143,6 +143,8 @@ permalink:  /conference/
                 var timezone = {% if conf.timezone %}"{{conf.timezone}}" {% else %} "America/New_York" {% endif %};
                 var confDeadline = moment.tz("{{conf.deadline}}", timezone);
 
+                var formattedTime = moment(confDeadline).format("dddd, MMMM Do, YYYY h:mm A")
+
                 // add calendar 
                 var conferenceDeadlineCalendar = createCalendarFromObject({
                   id:  '{{conf.id}}',
@@ -156,12 +158,17 @@ permalink:  /conference/
                 $('#conf-timer').countdown(confDeadline.toDate(), function(event) {
                   $(this).html(event.strftime('%D days %Hh %Mm %Ss'));
                 });
-                $('.deadline-time').html(confDeadline.toString());
+                // $('.deadline-time').html(confDeadline.toString());
+                $('.deadline-time').html(formattedTime.toString());
+
 
                 // convert deadline to local timezone
                 try {
                   var localConfDeadline = moment.tz(confDeadline, local_timezone);
-                  $('.deadline-local-time').html(localConfDeadline.toString());
+                  var formattedTime2 = moment(localConfDeadline).format("dddd, MMMM Do, YYYY h:mm A")
+                  // $('.deadline-local-time').html(localConfDeadline.toString());
+                  $('.deadline-local-time').html(formattedTime2.toString());
+                  
                 }
                 catch(err) {
                   console.log("Error converting to local timezone.");
