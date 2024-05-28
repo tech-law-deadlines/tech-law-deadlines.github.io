@@ -1,3 +1,5 @@
+<img src="static/img/logo.svg" alt="logo" style="zoom:33%;" />
+
 # Tech-Law Deadlines Countdown
 
 <!-- TOC start (generated with https://github.com/derlin/bitdowntoc) -->
