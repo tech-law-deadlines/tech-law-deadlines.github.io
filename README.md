@@ -1,4 +1,6 @@
-<img align="center" src="static/img/logo.svg" alt="logo" width="25%" />
+<p align="center">
+  <img alt="logo" width="25%" src="static/img/logo.svg">
+</p>
 
 # Tech-Law Deadlines Countdown
 
