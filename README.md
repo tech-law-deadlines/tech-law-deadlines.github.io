@@ -1,4 +1,4 @@
-<img src="static/img/logo.svg" alt="logo" style="zoom:33%;" />
+<img src="static/img/logo.svg" alt="logo" style="zoom:25%;" />
 
 # Tech-Law Deadlines Countdown
 
