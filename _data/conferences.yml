@@ -1,5 +1,20 @@
 ---
 
+- title: "Law Reviews (Fall Cycle)"
+  full_name: General deadline for law reviews (non-specific)
+  year: 2024
+  id: lrfc2024
+  link: "https://scholasticahq.com/law-review-submission-season-hq/"
+  deadline: ["2024-07-31 23:59"]
+  timezone: "America/New_York"
+  date: August 1-3
+  place: earth
+  start: 2024-07-30
+  end: 2024-08-03
+  sub: ["PRIV", "AI", "IP", "SEC"]
+  note: "General deadline, target a window around these dates"
+
+
 - title: LSRAI
   full_name: Legal Scholars Roundtable on Artificial Intelligence
   year: 2024
@@ -138,6 +153,21 @@
   end: 2024-10-24
   sub: ["PRIV"]
 
+- title: "Law Reviews (Spring Cycle)"
+  full_name: General deadline for law reviews (non-specific)
+  year: 2024
+  id: lrsc2024
+  link: "https://scholasticahq.com/law-review-submission-season-hq/"
+  deadline: ["2024-02-01 23:59"]
+  timezone: "America/New_York"
+  date: January 30
+  place: earth
+  start: 2024-01-30
+  end: 2024-02-03
+  sub: ["PRIV", "AI", "IP", "SEC"]
+  note: "General deadline, target a window around these dates"
+
+
 - title: PLSC
   full_name: "Privacy Law Scholars Conference"
   year: 2024
@@ -151,6 +181,7 @@
   place: Washington, DC
   sub: ["PRIV"]
 
+
 - title: "CSandLaw"
   full_name: Symposium on Computer Science and Law
   year: 2024
@@ -163,4 +194,6 @@
   start: 2024-03-12
   end: 2024-03-13
   sub: ["PRIV", "AI", "IP", "SEC"]
+
+
 
