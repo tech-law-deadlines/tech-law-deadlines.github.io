@@ -1,5 +1,19 @@
 ---
 
+- title: SERCIAC
+  full_name: "Society for Economic Research on Copyright Issues"
+  year: 2024
+  id: serciac24
+  link: http://www.serci.org/annual_congress.html
+  deadline: '2024-06-30 23:59'
+  timezone: "America/New_York"
+  place: Dallas, Texas 
+  date: September 6-7
+  start: 2024-09-06
+  end: 2024-09-07
+  sub: ["IP"]
+  note: "no timezone indicated in call for abstrats (New York assumed)"
+
 - title: JIPSA
   full_name: "Junior IP Scholars Association (Summer Workshop)"
   year: 2024
