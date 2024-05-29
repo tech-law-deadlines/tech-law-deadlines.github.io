@@ -1,5 +1,20 @@
 ---
 
+- title: LSRAI
+  full_name: Legal Scholars Roundtable on Artificial Intelligence
+  year: 2024
+  id: lsrai24
+  link: "https://www.dropbox.com/scl/fi/92vn6e312ent2vmzignk5/CFP-AI-Roundtable-2024-version-1.1.docx?rlkey=fojrvh0znue7mtgh4qd8zrha1&e=1&dl=0"
+  deadline: ["2024-02-23 23:59"]
+  timezone: "America/Los_Angeles"
+  date: April 11-12
+  place: Atlanta, Georgia
+  start: 2024-04-11
+  end: 2024-04-12
+  sub: ["IP", "AI"]
+  note: "no timezone indicated in call for abstrats (New York assumed)"
+
+
 - title: SERCIAC
   full_name: "Society for Economic Research on Copyright Issues"
   year: 2024
@@ -94,6 +109,20 @@
   start: 2024-08-08
   end: 2024-08-09
   sub: ["IP"]
+
+  - title: ISHTIP
+  full_name: "International Society for the History and Theory of Intellectual Property"
+  year: 2024
+  id: ishtip24
+  link: https://www.ishtip.org/?p=1374
+  deadline: '2024-01-08 23:59'
+  timezone: "America/New_York"
+  place: Boston, MA
+  date: June 26-27
+  start: 2024-06-26
+  end: 2024-06-27
+  sub: ["IP"]
+
 
 
 - title: PLSC Europe
