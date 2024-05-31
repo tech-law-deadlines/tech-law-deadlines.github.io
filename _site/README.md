@@ -6,13 +6,13 @@
 
 <!-- TOC start (generated with httpss://github.com/derlin/bitdowntoc) -->
 
-- [Tech-Law Deadlines Countdown](#tech-law-deadlines-countdown)
-   * [Adding or Updating a Conference](#adding-or-updating-a-conference)
-   * [New Post: Fields Detail](#new-post-fields-detail)
-      + [Deadline format](#deadline-format)
-      + [Timezones](#timezones)
-   * [Credits ](#credits)
-   * [Notable resources](#notable-resources)
+- [Adding or Updating a Conference](#adding-or-updating-a-conference)
+- [New Post: Fields Detail](#new-post--fields-detail)
+  * [Deadline format](#deadline-format)
+  * [Timezones](#timezones)
+- [Building for a local instantiation](#building-for-a-local-instantiation)
+- [Credits](#credits)
+- [Notable resources](#notable-resources)
 
 <!-- TOC end -->
 
@@ -55,8 +55,6 @@ git merge upstream/main
 ```
 
 ## New Post: Fields Detail
-
-
 
 Required fileds include: `title`, `year`, `id`, `link`, `deadline`, `timezone`, `date`, `place`, `sub` attributes
 
@@ -118,6 +116,16 @@ The timezone is specified in `tz format`. For the text-version, use this link [t
 | Eastern Standard Time (UTC-5) | `Etc/GMT+5`                                                        |
 | American Samoa Time (UTC-11)  | `Pacific/Samoa` or `Etc/GMT+11`. This timezone does not use DST.   |
 | Aleutian Islands              | `America/Adak`                                                     |
+
+## Building for a local instantiation
+
+1. ```shell
+   bundle install
+   ```
+
+2. ```shell
+   bundle exec jekyll serve
+   ```
 
 ## Credits 
 

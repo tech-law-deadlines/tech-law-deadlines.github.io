@@ -247,5 +247,26 @@
     });
     {% include google_analytics.js %}
     </script>
+    <script>
+
+       window.onload = function() {
+        // noticed bug when sorting wouldn't happen for past conferences
+        // alert("loaded")
+        
+        // $("#past_confs .ConfItem").sort(function (a, b) {
+        //   return $(b).attr('diff') - $(a).attr('diff');
+        // }).appendTo($("#past_confs"));
+
+        // alert('now re-sort')
+
+      
+        $("#past_confs .ConfItem").sort(function (a, b) {
+          return $(a).attr('diff') - $(b).attr('diff');
+        }).appendTo($("#past_confs"));
+      
+      }
+      
+
+    </script>
   </body>
 </html>
