@@ -1,5 +1,21 @@
 ---
 
+- title: "Mosaic IP Law and Policy Roundtable Conference"
+  full_name: "Mosaic IP Law and Policy Roundtable Conference—Looking Forward, Looking Back: IP Social Justice & Promoting Human Ingenuity"
+  year: 2024
+  id: miplawprc
+  link: "https://iipsj.org/programs/annual-mosaic-conference/"
+  deadline: ["2024-08-01 23:59"]
+  timezone: "America/New_York"
+  date: November 1-2
+  place: Milwaukee, WI
+  start: 2024-11-02
+  end: 2024-11-02
+  sub: ["IP"]
+  note: "no timezone indicated in call for abstrats (New York assumed); rolling deadline"
+
+
+
 - title: "Hacking Visual Culture"
   full_name: "Hacking Visual Culture: Intersections of art, creative practice, copyright, storytelling and technology"
   year: 2024
