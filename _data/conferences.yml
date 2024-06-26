@@ -12,6 +12,8 @@
   start: 2024-03-25
   end: 2024-03-27
   sub: ["PRIV", "AI", "IP", "SEC"]
+  note: "various submission types with different deadlies (full paper, works in progress, and lightning talks)"
+
 
 
 - title: "Mosaic IP Law and Policy Roundtable Conference"
