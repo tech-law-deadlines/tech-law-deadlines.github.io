@@ -1,5 +1,19 @@
 ---
 
+- title: "CSLaw25"
+  full_name: Symposium on Computer Science and Law
+  year: 2025
+  id: "cslaw25"
+  link: "https://computersciencelaw.org/2025/cfp/"
+  deadline: ["2024-09-30 23:59"]
+  timezone: "UTC-12"
+  date: March 25 - 27
+  place: Munich, GER
+  start: 2024-03-25
+  end: 2024-03-27
+  sub: ["PRIV", "AI", "IP", "SEC"]
+
+
 - title: "Mosaic IP Law and Policy Roundtable Conference"
   full_name: "Mosaic IP Law and Policy Roundtable Conference—Looking Forward, Looking Back: IP Social Justice & Promoting Human Ingenuity"
   year: 2024
@@ -213,10 +227,10 @@
   sub: ["PRIV"]
 
 
-- title: "CSandLaw"
+- title: "CSLaw24"
   full_name: Symposium on Computer Science and Law
   year: 2024
-  id: "csandlaw24"
+  id: "cslaw24"
   link: "https://computersciencelaw.org/2024-2/cfp/"
   deadline: ["2023-10-06 23:59"]
   timezone: "UTC-12"
