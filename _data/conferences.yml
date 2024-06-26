@@ -1,6 +1,6 @@
 ---
 
-- title: "CSLaw25"
+- title: "CSLaw"
   full_name: Symposium on Computer Science and Law
   year: 2025
   id: "cslaw25"
@@ -229,7 +229,7 @@
   sub: ["PRIV"]
 
 
-- title: "CSLaw24"
+- title: "CSLaw"
   full_name: Symposium on Computer Science and Law
   year: 2024
   id: "cslaw24"
