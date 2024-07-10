@@ -1,5 +1,20 @@
 ---
 
+- title: "aicontrolws"
+  full_name: IAB Workshop on AI-CONTROL
+  year: 2024
+  id: "aicontrolws24"
+  link: "https://datatracker.ietf.org/group/aicontrolws/about/"
+  deadline: ["2024-08-02 23:59"]
+  timezone: "UTC-12"
+  date: September 16
+  place: Washington, DC
+  start: 2024-09-16
+  end: 2024-09-16
+  sub: ["PRIV", "AI", "IP", "SEC"]
+  note: "conference dates pending; no timezone indicated in call for abstrats (New York assumed)"
+
+
 - title: "CSLaw"
   full_name: Symposium on Computer Science and Law
   year: 2025
