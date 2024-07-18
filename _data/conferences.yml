@@ -1,5 +1,20 @@
 ---
 
+- title: "Am. Law Review Annual Symposium"
+  full_name: American University Law Review Annual Symposium
+  year: 2025
+  id: "amlrsymposium25"
+  link: "https://aulawreview.org/symposium/"
+  deadline: ["2024-12-01 23:59"]
+  timezone: "UTC-12"
+  date: February 7
+  place: Washington, DC
+  start: 2025-02-07
+  end: 2025-02-07
+  sub: ["PRIV", "AI", "IP", "SEC"]
+  note: "Pop Culture and the Law; no timezone indicated in call for abstrats (New York assumed); Scholastica submissions"
+
+
 - title: "aicontrolws"
   full_name: IAB Workshop on AI-CONTROL
   year: 2024
