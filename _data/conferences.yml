@@ -1,5 +1,36 @@
 ---
 
+
+- title: "Law and Technology Workshop (Fall—monthly)"
+  full_name: Fall 2024 Law and Technology Workshop (monthly) 
+  year: 2024
+  id: "ltwf24"
+  link: "https://docs.google.com/forms/d/e/1FAIpQLSfgbgeLnx3emk_UVMRWS0N2Si6CChNhc6cR67S5yC5yQMMrRQ/viewform"
+  deadline: ["2024-08-16 23:59"]
+  timezone: "UTC-12"
+  date: September 1
+  place: earth
+  start: 2024-09-01
+  end: 2024-09-01
+  sub: ["PRIV", "AI", "IP"]
+  note: "Online (monthly, starting September); no timezone indicated (New York assumed); https://lawtechworkshop.org/"
+
+
+- title: "Law and Technology Workshop (AALS)"
+  full_name: 2025 Law and Technology Workshop (AALS annual meeting) 
+  year: 2025
+  id: "ltwaals25"
+  link: "https://docs.google.com/forms/d/e/1FAIpQLSfgbgeLnx3emk_UVMRWS0N2Si6CChNhc6cR67S5yC5yQMMrRQ/viewform"
+  deadline: ["2024-08-16 23:59"]
+  timezone: "UTC-12"
+  date: January 10
+  place: San Francisco, CA
+  start: 2025-01-10
+  end: 2025-01-10
+  sub: ["PRIV", "AI", "IP"]
+  note: "AALS meeting (SF) track; no timezone indicated (New York assumed); https://lawtechworkshop.org/"
+
+
 - title: "Am. Law Review Annual Symposium"
   full_name: American University Law Review Annual Symposium
   year: 2025
