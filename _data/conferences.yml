@@ -1,5 +1,19 @@
 ---
 
+- title: "ICAIL"
+  full_name: International Conference on Artificial Intelligence and Law
+  year: 2025
+  id: "icail2025"
+  link: "https://sites.northwestern.edu/icail2025/cfp/"
+  deadline: ["2025-01-17 23:59"]
+  timezone: "UTC-12"
+  date: June 16
+  place: earth
+  start: 2025-06-16
+  end: 2025-06-20
+  sub: ["PRIV", "AI", "IP"]
+  note: "No timezone indicated (New York assumed)"
+
 
 - title: "Law and Technology Workshop (Fall—monthly)"
   full_name: Fall 2024 Law and Technology Workshop (monthly) 
