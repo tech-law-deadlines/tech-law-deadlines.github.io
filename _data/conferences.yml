@@ -25,8 +25,8 @@
   timezone: "UTC-12"
   date: June 16
   place: earth
-  start: 2025-06-16
-  end: 2025-06-20
+  start: 2025-06-17
+  end: 2025-06-21
   sub: ["PRIV", "AI", "IP"]
   note: "No timezone indicated (New York assumed)"
 
@@ -40,8 +40,8 @@
   timezone: "UTC-12"
   date: September 1
   place: earth
-  start: 2024-09-01
-  end: 2024-09-01
+  start: 2024-09-02
+  end: 2024-09-03
   sub: ["PRIV", "AI", "IP"]
   note: "Online (monthly, starting September); no timezone indicated (New York assumed); https://lawtechworkshop.org/"
 
@@ -55,8 +55,8 @@
   timezone: "UTC-12"
   date: January 10
   place: San Francisco, CA
-  start: 2025-01-10
-  end: 2025-01-10
+  start: 2025-01-11
+  end: 2025-01-11
   sub: ["PRIV", "AI", "IP"]
   note: "AALS meeting (SF) track; no timezone indicated (New York assumed); https://lawtechworkshop.org/"
 
@@ -70,8 +70,8 @@
   timezone: "UTC-12"
   date: February 7
   place: Washington, DC
-  start: 2025-02-07
-  end: 2025-02-07
+  start: 2025-02-08
+  end: 2025-02-08
   sub: ["PRIV", "AI", "IP", "SEC"]
   note: "Pop Culture and the Law; no timezone indicated in call for abstrats (New York assumed); Scholastica submissions"
 
@@ -85,8 +85,8 @@
   timezone: "UTC-12"
   date: September 16
   place: Washington, DC
-  start: 2024-09-16
-  end: 2024-09-16
+  start: 2024-09-17
+  end: 2024-09-17
   sub: ["PRIV", "AI", "IP", "SEC"]
   note: "conference dates pending; no timezone indicated in call for abstrats (New York assumed)"
 
@@ -100,8 +100,8 @@
   timezone: "UTC-12"
   date: March 25 - 27
   place: Munich, GER
-  start: 2024-03-25
-  end: 2024-03-27
+  start: 2024-03-26
+  end: 2024-03-28
   sub: ["PRIV", "AI", "IP", "SEC"]
   note: "various submission types with different deadlies (full paper, works in progress, and lightning talks)"
 
@@ -116,8 +116,8 @@
   timezone: "America/New_York"
   date: November 1-2
   place: Milwaukee, WI
-  start: 2024-11-02
-  end: 2024-11-02
+  start: 2024-11-03
+  end: 2024-11-03
   sub: ["IP"]
   note: "no timezone indicated in call for abstrats (New York assumed); rolling deadline"
 
@@ -132,8 +132,8 @@
   timezone: "America/New_York"
   date: December 4-6
   place: Sydney, New South Wales, Australia
-  start: 2024-12-04
-  end: 2024-12-06
+  start: 2024-12-05
+  end: 2024-12-07
   sub: ["IP"]
   note: "no timezone indicated in call for abstrats (New York assumed)"
 
@@ -147,8 +147,8 @@
   timezone: "America/New_York"
   date: August 1-3
   place: earth
-  start: 2024-07-30
-  end: 2024-08-03
+  start: 2024-07-31
+  end: 2024-08-04
   sub: ["PRIV", "AI", "IP", "SEC"]
   note: "General deadline, target a window around these dates"
 
@@ -162,8 +162,8 @@
   timezone: "America/Los_Angeles"
   date: April 11-12
   place: Atlanta, Georgia
-  start: 2024-04-11
-  end: 2024-04-12
+  start: 2024-04-12
+  end: 2024-04-13
   sub: ["IP", "AI"]
   note: "no timezone indicated in call for abstrats (New York assumed)"
 
@@ -177,8 +177,8 @@
   timezone: "America/New_York"
   place: Dallas, Texas 
   date: September 6-7
-  start: 2024-09-06
-  end: 2024-09-07
+  start: 2024-09-07
+  end: 2024-09-08
   sub: ["IP"]
   note: "no timezone indicated in call for abstrats (New York assumed)"
 
@@ -191,8 +191,8 @@
   timezone: "America/New_York"
   place: New York (Cardozo), New York
   date: August 1-2
-  start: 2024-08-01
-  end: 2024-08-02
+  start: 2024-08-02
+  end: 2024-08-03
   sub: ["IP", "JUNIOR"]
 
 - title: Wiet Life Science Law Scholars Workshop
@@ -203,8 +203,8 @@
   deadline: ["2024-07-01 23:59"]
   timezone: "America/Chicago"
   date: September 20
-  start: 2024-09-10
-  end: 2024-09-10
+  start: 2024-09-11
+  end: 2024-09-12
   place: Chicago, IL
   sub: ["IP"]
 
@@ -219,8 +219,8 @@
   date: September 27-28
   place: Philadelphia, PA
   sub: ["JUNIOR"]
-  start: 2024-09-27
-  end: 2024-09-28
+  start: 2024-09-28
+  end: 2024-09-29
   note: in person
 
 - title: ProLaLa
@@ -232,8 +232,8 @@
   timezone: "UTC-12"
   date: October 22
   place: (location pending)
-  start: 2024-10-22
-  end: 2024-10-22
+  start: 2024-10-23
+  end: 2024-10-23
   sub: ["AI", "IP", "PRIV"]
 
 - title: GenLaw
@@ -246,8 +246,8 @@
   date: July 27
   place: Vienna, Austria
   sub: ["AI", "IP", "PRIV"]
-  start: 2024-07-24
-  end: 2024-07-24
+  start: 2024-07-25
+  end: 2024-07-25
   note: rolling deadline
 
 - title: IPSC
@@ -259,8 +259,8 @@
   timezone: "America/Los_Angeles"
   date: August 8-9
   place: Berkeley, CA
-  start: 2024-08-08
-  end: 2024-08-09
+  start: 2024-08-09
+  end: 2024-08-10
   sub: ["IP"]
 
 - title: ISHTIP
@@ -272,8 +272,8 @@
   timezone: "America/New_York"
   place: Boston, MA
   date: June 26-27
-  start: 2024-06-26
-  end: 2024-06-27
+  start: 2024-06-27
+  end: 2024-06-28
   sub: ["IP"]
 
 
@@ -287,8 +287,8 @@
   timezone: "Europe/London"
   date: October 24
   place: Amsterdam, Netherlands
-  start: 2024-10-24
-  end: 2024-10-24
+  start: 2024-10-25
+  end: 2024-10-25
   sub: ["PRIV"]
 
 - title: "Law Reviews (Spring Cycle)"
@@ -300,8 +300,8 @@
   timezone: "America/New_York"
   date: January 30
   place: earth
-  start: 2024-01-30
-  end: 2024-02-03
+  start: 2024-01-31
+  end: 2024-02-04
   sub: ["PRIV", "AI", "IP", "SEC"]
   note: "General deadline, target a window around these dates"
 
@@ -314,8 +314,8 @@
   deadline: ["2024-01-30 23:59"]
   timezone: "America/Los_Angeles"
   date: May 30-31
-  start: 2024-05-30
-  end: 2024-05-31
+  start: 2024-05-31
+  end: 2024-06-01
   place: Washington, DC
   sub: ["PRIV"]
 
@@ -329,8 +329,8 @@
   timezone: "UTC-12"
   date: March 12 - 13
   place: Boston, MA
-  start: 2024-03-12
-  end: 2024-03-13
+  start: 2024-03-13
+  end: 2024-03-14
   sub: ["PRIV", "AI", "IP", "SEC"]
 
 
