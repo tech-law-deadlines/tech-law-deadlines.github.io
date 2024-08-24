@@ -1,5 +1,23 @@
 ---
 
+
+CLPSC
+
+- title: "CLPSC"
+  full_name: Cybersecurity Law and Policy Scholars Conference
+  year: 2025
+  id: "clpsc2025"
+  link: "https://docs.google.com/forms/d/e/1FAIpQLSeLiLAUzIks0PMhLT1iJf7vJLeFk8cXBq9w8k2kGGJyugkohQ/viewform"
+  deadline: ["2024-12-15 23:59"]
+  timezone: "UTC-12"
+  date: April 4
+  place: Columbus, OH
+  start: 2025-04-04
+  end: 2025-04-05
+  sub: ["PRIV", "AI", "SEC"]
+  note: "No timezone indicated (New York assumed); abstract submission (maximum 1000 words)"
+
+
 - title: "ICAIL"
   full_name: International Conference on Artificial Intelligence and Law
   year: 2025
