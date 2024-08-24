@@ -10,8 +10,8 @@
   timezone: "UTC-12"
   date: April 4
   place: Columbus, OH
-  start: 2025-04-04
-  end: 2025-04-05
+  start: 2025-04-05
+  end: 2025-04-06
   sub: ["PRIV", "AI", "SEC"]
   note: "No timezone indicated (New York assumed); abstract submission (maximum 1000 words)"
 
