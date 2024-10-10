@@ -1,5 +1,32 @@
 ---
 
+- title: "IPR25"
+  full_name: The craft of interdisciplinary research and methods in public interest cybersecurity, privacy, and digital rights governance
+  year: 2025
+  id: "ipr25"
+  link: "https://policyreview.info/node/1792"
+  deadline: ["2024-11-08 23:59"]
+  timezone: "UTC-12"
+  sub: ["IP", "PRIV", "AI"]
+  note: "No timezone indicated (New York assumed); not a conference, but a special issue!"
+
+
+
+- title: "PLET25"
+  full_name: Private Law & Emerging Technology Workshop
+  year: 2025
+  id: "plet25"
+  link: "https://privatelawtech.org"
+  deadline: ["2024-11-01 23:59"]
+  timezone: "UTC-12"
+  date: April
+  place: Virtual
+  start: 2025-04-11
+  end: 2025-04-11
+  sub: ["IP", "PRIV", "AI"]
+  note: "No timezone indicated (New York assumed); this remote Workshop is scheduled for four consecutive Fridays in April 2025: Apr. 4, 11, 18, & 25 from 1:30 to 3:30PM (Eastern)."
+
+
 - title: "FESC25"
   full_name: Floyd Abrams Institute for Freedom of Expression
   year: 2025
@@ -12,7 +39,7 @@
   start: 2025-04-26
   end: 2025-04-27
   sub: ["IP", "PRIV", "AI"]
-  note: "No timezone indicated (New York assumed); At FESC, scholars and practitioners discuss works-in-progress on the freedoms of speech, expression, press, association, petition, and assembly, as well as on related issues of knowledge and information policy. FESC has become a fixture on the calendar of leading First Amendment thinkers and scholars nationwide.."
+  note: "No timezone indicated (New York assumed); At FESC, scholars and practitioners discuss works-in-progress on the freedoms of speech, expression, press, association, petition, and assembly, as well as on related issues of knowledge and information policy. FESC has become a fixture on the calendar of leading First Amendment thinkers and scholars nationwide."
 
 
 
