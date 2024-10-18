@@ -1,5 +1,35 @@
 ---
 
+- title: "Chicagoland IP Workshop"
+  full_name: Chicago-Kent Program in Intellectual Property Law's Chicagoland IP Workshop
+  year: 2024
+  id: "chicagoland24"
+  link: "https://docs.google.com/forms/d/e/1FAIpQLScKSzysiUSD6MuZNe4kD35NL5uTMgjZxwP4XbQDlUq-5yZmXg/viewform?usp=sf_link"
+  deadline: ["2024-11-01 23:59"]
+  timezone: "UTC-12"
+  date: December
+  place: Chicago, Illinois
+  start: 2024-12-06
+  end: 2024-12-06
+  sub: ["IP",]
+  note: "No timezone indicated (New York assumed); Google Form submissions with abstract"
+
+
+- title: "IPIRA"
+  full_name: Seventh IP and Innovation Researchers of Asia (IPIRA) Conference
+  year: 2025
+  id: "ipira25"
+  link: "http://ipresearchersasia.org/past-conferences/"
+  deadline: ["2024-12-15 23:59"]
+  timezone: "UTC-12"
+  date: April
+  place: Tokyo, Japan
+  start: 2025-04-05
+  end: 2025-04-07
+  sub: ["IP"]
+  note: "No timezone indicated (New York assumed)"
+
+
 - title: "IPR25"
   full_name: The craft of interdisciplinary research and methods in public interest cybersecurity, privacy, and digital rights governance
   year: 2025
