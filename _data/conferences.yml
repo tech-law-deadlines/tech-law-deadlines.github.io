@@ -1,5 +1,22 @@
 ---
 
+- title: "ATRIP Essay Competition"
+  full_name: ATRIP 2024 Essay Competition for Young Researchers in Intellectual Property
+  year: 2025
+  id: "ATRIP2024essay"
+  link: "https://www.linkedin.com/in/atrip-teaching-and-research-in-ip-b89657256/"
+  deadline: ["2025-02-21 23:59"]
+  timezone: "UTC-12"
+  date: June
+  place: Copenhagen, Denmark
+  start: 2025-06-23
+  end: 2025-06-26
+  sub: ["IP",]
+  note: "No timezone indicated (New York assumed); age restriction (35 years old as of December 31, 2024) but exceptions may apply; the text of the paper should be no less than 5,000 words and no more than 10,000 words,
+including footnotes"
+
+
+
 - title: "Chicagoland IP Workshop"
   full_name: Chicago-Kent Program in Intellectual Property Law's Chicagoland IP Workshop
   year: 2024
