@@ -22,7 +22,7 @@ including footnotes"
   year: 2024
   id: "chicagoland24"
   link: "https://docs.google.com/forms/d/e/1FAIpQLScKSzysiUSD6MuZNe4kD35NL5uTMgjZxwP4XbQDlUq-5yZmXg/viewform?usp=sf_link"
-  deadline: ["2024-11-01 23:59"]
+  deadline: ["2024-11-06 23:59"]
   timezone: "UTC-12"
   date: December
   place: Chicago, Illinois
@@ -54,6 +54,8 @@ including footnotes"
   link: "https://policyreview.info/node/1792"
   deadline: ["2024-11-08 23:59"]
   timezone: "UTC-12"
+  date: "None"
+  place: "None"
   sub: ["IP", "PRIV", "AI"]
   note: "No timezone indicated (New York assumed); not a conference, but a special issue!"
 
