@@ -1,5 +1,21 @@
 ---
 
+- title: ISHTIP
+  full_name: "International Society for the History and Theory of Intellectual Property: Intellectual Property and Capitalism"
+  year: 2025
+  id: ishtip25
+  link: "https://ishtip.org/call-for-papers-2025-annual-workshop/"
+  deadline: '2024-12-20 23:59'
+  timezone: "America/New_York"
+  place: Madrid, Spain
+  date: June 26-27
+  start: 2025-06-26
+  end: 2025-06-27
+  sub: ["IP"]
+  note: "No timezone indicated (New York assumed); 'Please submit a paper abstract of no longer than 300 words and a two-page CV to david.pretel@uam.es and j.a.bellido@kent.ac.uk to be considered.'"
+
+
+
 - title: "ATRIP Essay Competition"
   full_name: ATRIP 2024 Essay Competition for Young Researchers in Intellectual Property
   year: 2025
