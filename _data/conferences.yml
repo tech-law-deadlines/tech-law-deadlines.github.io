@@ -1,5 +1,19 @@
 ---
 
+- title: ILWiP
+  full_name: "Internet Law Works-in-Progress"
+  year: 2025
+  id: ilwip25
+  link: "https://law.scu.edu/event/2025-internet-law-works-in-progress/"
+  deadline: '2024-12-12 12:00'
+  timezone: "America/Los_Angeles"
+  place: Santa Clara, California
+  date: March 8
+  start: 2025-03-09
+  end: 2025-03-09
+  sub: ["IP"]
+  note: "After a 5 year in-person hiatus, the High Tech Law Institute at Santa Clara Law is pleased to host the Internet Law Works in Progress series for Internet law scholarship on March 8, 2025, at Santa Clara University"
+
 - title: ISHTIP
   full_name: "International Society for the History and Theory of Intellectual Property: Intellectual Property and Capitalism"
   year: 2025
