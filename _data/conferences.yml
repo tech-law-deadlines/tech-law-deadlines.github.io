@@ -1,4 +1,17 @@
 ---
+- title: LSRAI
+  full_name: "Fourth Annual Legal Scholars Roundtable on Artificial Intelligence"
+  year: 2025
+  id: lsrai25
+  link: "https://forms.gle/EyUghVd23tEB2aRS7"
+  deadline: '2024-02-15 23:59'
+  timezone: "America/New_York"
+  place: Atlanta, Georgia
+  date: April 10
+  start: 2025-04-11
+  end: 2025-04-12
+  sub: ["AI"]
+  note: "No timezone indicated (New York assumed). The conference will begin on Thursday morning and run until 1PM on Friday. You can expect to be at the Atlanta airport by 1:45 PM, in time for a 2:30 PM flight or later on Friday. We will pay for your reasonable (economy) travel and accommodation expenses within the U.S. At the roundtable you will be well fed and caffeinated."
 
 - title: ILWiP
   full_name: "Internet Law Works-in-Progress"
@@ -11,7 +24,7 @@
   date: March 8
   start: 2025-03-09
   end: 2025-03-09
-  sub: ["IP"]
+  sub: ["IP", "PRIV", "AI"]
   note: "After a 5 year in-person hiatus, the High Tech Law Institute at Santa Clara Law is pleased to host the Internet Law Works in Progress series for Internet law scholarship on March 8, 2025, at Santa Clara University"
 
 - title: ISHTIP
