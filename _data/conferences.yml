@@ -1,5 +1,19 @@
 ---
 
+- title: "JIPSA"
+  full_name: "Junior Intellectual Property Scholars Association - Winter Workshop"
+  year: 2025
+  id: "jipsawinter25"
+  deadline: ["2025-01-07 23:59"]
+  timezone: "America/New_York"
+  date: February 7
+  place: Oklahoma City, OK
+  start: 2024-02-08
+  end: 2024-02-09
+  sub: ["JUIOR","IP"]
+  note: "No timezone indicated (New York assumed). Contact Timothy Hsieh for details. From the call: The JIPSA Winter Workshop is open to any IP scholar (broadly defined) who has held a full-time academic position for seven (7) years or less (not counting time as a VAP or fellow). Participants can opt to present either a full draft or an early-stage outline (which can be as short as one page).  Generally, anyone who is eligible and wants to present can do so, there is not a submission / acceptance process.  We can also work with you if you want to present virtually or over Zoom but ideally we would love to have you attend in person to check out OCU Law and OKC."
+
+
 
 - title: "CS&Law-WiP"
   full_name: "4th ACM Symposium on Computer Science and Law: Works in Progress"
