@@ -1,47 +1,3 @@
-- title: JURISIN
-  full_name: "Nineteenth International Workshop on Juris-informatics"
-  year: 2025
-  id: jurisin25
-  link: "https://forms.gle/EyUghVd23tEB2aRS7"
-  deadline: '2025-01-31 23:59'
-  timezone: "America/New_York"
-  place: Atlanta, Georgia
-  date: May 27
-  start: 2025-05-28
-  end: 2025-05-31
-  sub: ["AI"]
-  note: "No timezone indicated (New York assumed). Juris-informatics studies legal issues from the perspective of informatics and AI. The purpose of this workshop is to discuss both the fundamental and practical issues among people from the various backgrounds such as law, social science, information and intelligent technology, logic and philosophy, including the conventional "AI and law" area. We solicit unpublished papers on theories, technologies and applications on juris-informatics."
-
-
-- title: "Law and Technology Workshop (Spring—monthly)"
-  full_name: Spring 2025 Law and Technology Workshop (monthly) 
-  year: 2025
-  id: "ltws25"
-  link: "https://docs.google.com/forms/d/1cA84gqnUWc39ma7wCjc6KdaeXllUdpfdSsHTqP__kVg/edit"
-  deadline: ["2025-01-10 23:59"]
-  timezone: "America/New_York"
-  date: February 1
-  place: earth
-  start: 2024-02-01
-  end: 2024-02-01
-  sub: ["PRIV", "AI", "IP"]
-  note: "Online (monthly, starting February); no timezone indicated (New York assumed); more information on the Workshop can be found here: https://lawtechworkshop.org/. "
-
-
-- title: "cs&law-WiP"
-  full_name: "4th ACM Symposium on Computer Science and Law: Works in Progress"
-  year: 2025
-  id: "cs&law-wip25"
-  link: "https://computersciencelaw.org/2025/cfp/"
-  deadline: ["2024-01-21 23:59"]
-  timezone: "America/New_York"
-  date: March 25
-  place: Munich, Germany
-  start: 2024-03-26
-  end: 2024-03-28
-  sub: ["PRIV", "AI", "IP", "SEC"]
-  note: "No timezone indicated (New York assumed). Submission Link: https://cslaw25.hotcrp.com/"
-
 
 - title: LSRAI
   full_name: "Fourth Annual Legal Scholars Roundtable on Artificial Intelligence"
@@ -525,4 +481,3 @@ including footnotes"
   start: 2024-03-13
   end: 2024-03-14
   sub: ["PRIV", "AI", "IP", "SEC"]
-
