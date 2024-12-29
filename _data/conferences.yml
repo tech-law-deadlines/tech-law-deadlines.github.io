@@ -1,51 +1,3 @@
----
-
-
-- title: "Race-IP"
-  full_name: "Race + IP: Dedicated to the intersectional and collaborative study of race, coloniality, and intellectual properties"
-  year: 2025
-  id: raceIP25
-  link: "https://raceipconference.org"
-  deadline: '2025-02-01 23:59'
-  timezone: "America/New_York"
-  place: Pittsburgh, Pennsylvania
-  date: April 17
-  start: 2025-04-18
-  end: 2025-04-20
-  sub: ["PRIV", "IP", "AI"]
-  note: "No timezone indicated (New York assumed). For full consideration, please submit an abstract of a maximum of 350 words of the proposed submission with your name, position, and affiliation to raceipconference@gmail.com. We welcome submissions in non-traditional formats from participants at all stages in their careers."
-
-
-- title: PLSC
-  full_name: "Privacy Law Scholars Conference"
-  year: 2025
-  id: plsc25
-  link: "https://docs.google.com/document/d/1UVITcbRSfLrUpc0gOMPOuo01RIEKnpi_5RA9_ztSW48/edit?tab=t.0"
-  deadline: '2025-01-27 23:59'
-  timezone: "America/Los_Angeles"
-  place: Los Angeles, California
-  date: May 29
-  start: 2025-05-30
-  end: 2025-05-31
-  sub: ["PRIV"]
-  note: "PLSC is a paper workshop conference. It offers no opportunity or obligation to publish. The goal is to provide support for in-progress scholarship related to information privacy law. The boundaries of privacy as a discipline are dynamic and contested. Although PLSC emphasizes the law of privacy, concepts from other fields play critical roles in our understanding of privacy and in shaping the law."
-
-
-- title: "JFFL&STEM"
-  full_name: "Eighth Junior Faculty Forum on Law and STEM"
-  year: 2025
-  id: jurisin25
-  link: "https://forms.gle/EyUghVd23tEB2aRS7"
-  deadline: '2025-01-31 23:59'
-  timezone: "America/New_York"
-  place: Chicago, IL
-  date: May 27
-  start: 2025-05-28
-  end: 2025-05-31
-  sub: ["AI"]
-  note: "No timezone indicated (New York assumed). Juris-informatics studies legal issues from the perspective of informatics and AI. The purpose of this workshop is to discuss both the fundamental and practical issues among people from the various backgrounds such as law, social science, information and intelligent technology, logic and philosophy, including the conventional "AI and law" area. We solicit unpublished papers on theories, technologies and applications on juris-informatics."
-
-
 - title: JURISIN
   full_name: "Nineteenth International Workshop on Juris-informatics"
   year: 2025
@@ -573,6 +525,4 @@ including footnotes"
   start: 2024-03-13
   end: 2024-03-14
   sub: ["PRIV", "AI", "IP", "SEC"]
-
-
 
