@@ -1,7 +1,7 @@
 ---
 
 
-- title: "cs&amp;law-WiP"
+- title: "CSandLaw-WiP"
   full_name: "4th ACM Symposium on Computer Science and Law: Works in Progress"
   year: 2025
   id: "cs&law-wip25"
@@ -47,7 +47,7 @@
   note: "PLSC is a paper workshop conference. It offers no opportunity or obligation to publish. The goal is to provide support for in-progress scholarship related to information privacy law. The boundaries of privacy as a discipline are dynamic and contested. Although PLSC emphasizes the law of privacy, concepts from other fields play critical roles in our understanding of privacy and in shaping the law."
 
 
-- title: "JFFL&STEM"
+- title: "JFFLandSTEM"
   full_name: "Eighth Junior Faculty Forum on Law and STEM"
   year: 2025
   id: JFFL&STEM25
@@ -335,7 +335,7 @@ including footnotes"
   note: "conference dates pending; no timezone indicated in call for abstrats (New York assumed)"
 
 
-- title: "cs&law"
+- title: "CSandLaw"
   full_name: Symposium on Computer Science and Law
   year: 2025
   id: "cs&law25"
@@ -564,7 +564,7 @@ including footnotes"
   sub: ["PRIV"]
 
 
-- title: "cs&law"
+- title: "CSandLaw"
   full_name: Symposium on Computer Science and Law
   year: 2024
   id: "cs&law24"
