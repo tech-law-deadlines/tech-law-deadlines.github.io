@@ -250,9 +250,9 @@ including footnotes"
   id: "wipip25"
   link: "https://law.unlv.edu/events/wipip-2025"
   deadline: ["2024-11-04 23:59"]
-  timezone: "UTC-12"
+  timezone: "America/New_York"
   date: Jaunary 31
-  place: Columbus, OH
+  place: Las Vegas, NV
   start: 2025-02-01
   end: 2025-02-02
   sub: ["IP", "PRIV", "AI"]
