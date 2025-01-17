@@ -1,5 +1,21 @@
 ---
 
+- title: "Intellectual Property and Technology in the 21st Century: Challenges in the Next Decade"
+  full_name: "Intellectual Property and Technology in the 21st Century: Challenges in the Next Decade"
+  year: 2025
+  link:"https://law.nus.edu.sg/ewbclb/iptech-callforpapers/",
+  id: "iptcnd"
+  deadline: ["2025-02-01 23:59"]
+  timezone: "America/New_York"
+  date: August 5
+  place: National University of Singapore
+  start: 2024-08-05
+  end: 2024-08-06
+  sub: ["IP", "AI"]
+  note: "No timezone indicated (New York assumed). Proposals for presentations at the conference should contain the following: 1) Name, Job Title and Institutional Affiliation; 2) Title of Paper; 3) Abstract of Paper (no more than 1000 words); and 4) An indication of whether the final paper would be submitted to the SJLS. Proposals should be sent to Professor David Tan at david.tan@nus.edu.sg by 1 February 2025."
+
+
+
 - title: "JIPSA"
   full_name: "Junior Intellectual Property Scholars Association - Winter Workshop"
   year: 2025
@@ -279,7 +295,7 @@ including footnotes"
   year: 2025
   id: "icail2025"
   link: "https://sites.northwestern.edu/icail2025/cfp/"
-  deadline: ["2025-01-17 23:59"]
+  deadline: ["2025-01-17 28:59"]
   timezone: "UTC-12"
   date: June 16
   place: Chicago, Illinois
