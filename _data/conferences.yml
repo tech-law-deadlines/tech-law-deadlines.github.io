@@ -31,7 +31,7 @@
 
 
 
-- title: "CS&Law-WiP"
+- title: "CSandLaw-WiP"
   full_name: "4th ACM Symposium on Computer Science and Law: Works in Progress"
   year: 2025
   id: "csandlaw-wip25"
@@ -77,7 +77,7 @@
   note: "PLSC is a paper workshop conference. It offers no opportunity or obligation to publish. The goal is to provide support for in-progress scholarship related to information privacy law. The boundaries of privacy as a discipline are dynamic and contested. Although PLSC emphasizes the law of privacy, concepts from other fields play critical roles in our understanding of privacy and in shaping the law."
 
 
-- title: "JFFL&STEM"
+- title: "JFFLandSTEM"
   full_name: "Eighth Junior Faculty Forum on Law and STEM"
   year: 2025
   id: JFFLandSTEM25
@@ -229,8 +229,8 @@ including footnotes"
 
 
 
-- title: "Private Law & Emerging Technology"
-  full_name: Private Law & Emerging Technology Workshop
+- title: "Private Law and Emerging Technology"
+  full_name: Private Law and Emerging Technology Workshop
   year: 2025
   id: "plet25"
   link: "https://privatelawtech.org"
@@ -241,7 +241,7 @@ including footnotes"
   start: 2025-04-11
   end: 2025-04-11
   sub: ["IP", "PRIV", "AI"]
-  note: "No timezone indicated (New York assumed); this remote Workshop is scheduled for four consecutive Fridays in April 2025: Apr. 4, 11, 18, & 25 from 1:30 to 3:30PM (Eastern)."
+  note: "No timezone indicated (New York assumed); this remote Workshop is scheduled for four consecutive Fridays in April 2025: Apr. 4, 11, 18, and 25 from 1:30 to 3:30PM (Eastern)."
 
 
 - title: "FESC25"
@@ -365,7 +365,7 @@ including footnotes"
   note: "conference dates pending; no timezone indicated in call for abstrats (New York assumed)"
 
 
-- title: "CS&Law"
+- title: "CSandLaw"
   full_name: Symposium on Computer Science and Law
   year: 2025
   id: "csandlaw25"
@@ -382,7 +382,7 @@ including footnotes"
 
 
 - title: "Mosaic IP Law and Policy Roundtable Conference"
-  full_name: "Mosaic IP Law and Policy Roundtable Conference—Looking Forward, Looking Back: IP Social Justice & Promoting Human Ingenuity"
+  full_name: "Mosaic IP Law and Policy Roundtable Conference—Looking Forward, Looking Back: IP Social Justice and Promoting Human Ingenuity"
   year: 2024
   id: miplawprc
   link: "https://iipsj.org/programs/annual-mosaic-conference/"
@@ -594,7 +594,7 @@ including footnotes"
   sub: ["PRIV"]
 
 
-- title: "CS&Law"
+- title: "CSandLaw"
   full_name: Symposium on Computer Science and Law
   year: 2024
   id: "csandlaw24"
