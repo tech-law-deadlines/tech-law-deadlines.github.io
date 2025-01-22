@@ -1,5 +1,36 @@
 ---
 
+- title: "Fifth Machine Lawyering Conference"
+  full_name: "Fifth Machine Lawyering Conference"
+  year: 2025
+  link: "https://www.law.cuhk.edu.hk/app/events/call-for-papers-the-5th-machine-lawyering-conference/"
+  id: "mlc25"
+  deadline: ["2025-02-04 23:59"]
+  timezone: "America/New_York"
+  date: May 29
+  place: Central, Hong Kong
+  start: 2024-05-30
+  end: 2024-05-31
+  sub: ["IP"]
+  note: "No timezone indicated (New York assumed). Since its launch at CUHK LAW in 2020, the Machine Lawyering Conference has become a leading international forum for exploring the nexus between law and digital technology. It has earned an impressive reputation across Asia and beyond, attracting participants from around the world. Experts contribute to a rich dialogue by presenting research and interacting with each other on a broad array of topics, from the legal challenges posed by artificial intelligence (AI) to issues of data and platform governance. This vibrant exchange has been instrumental in facilitating a dynamic cross-pollination of ideas among attendees."
+
+
+- title: "WEMIP: Workshop on Empirical Methods in Intellectual Property"
+  full_name: "Workshop on Empirical Methods in Intellectual Property"
+  year: 2025
+  link: "https://www.law.northwestern.edu/research-faculty/events/conferences/ip/"
+  id: "wemip25"
+  deadline: ["2025-03-14 23:59"]
+  timezone: "America/New_York"
+  date: May 28
+  place: Chicago, IL
+  start: 2024-05-29
+  end: 2024-05-30
+  sub: ["IP"]
+  note: "No timezone indicated (New York assumed). The first day of the workshop is intended to give scholars engaging in empirical studies of IP a chance to receive feedback on their work at an early stage in their research. Projects using any variety of empirical methods, including experimental methods and qualitative methods, are welcome. Ideal projects for the workshop are in their developmental stages where substantial data collection has not begun. Pilot data collection is, however, appropriate. To ensure substantial individualized feedback, the workshop will be organized around a modest number of developmental projects. Each project will be assigned to an expert commenter and will be allotted 45 minutes of discussion by the attendees. On the second day of the workshop, we will host a discussion of several more developed empirical IP projects by senior empirically-focused scholars.  Since the authors of those papers will serve as the discussants for the workshop papers, we expect workshop authors will remain for the discussion on the second day."
+
+
+
 - title: "Intellectual Property and Technology in the 21st Century: Challenges in the Next Decade"
   full_name: "Intellectual Property and Technology in the 21st Century: Challenges in the Next Decade"
   year: 2025
