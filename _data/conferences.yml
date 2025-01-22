@@ -11,7 +11,7 @@
   place: Central, Hong Kong
   start: 2024-05-30
   end: 2024-05-31
-  sub: ["IP"]
+  sub: ["IP", "PRIV", "SEC", "AI"]
   note: "No timezone indicated (New York assumed). Since its launch at CUHK LAW in 2020, the Machine Lawyering Conference has become a leading international forum for exploring the nexus between law and digital technology. It has earned an impressive reputation across Asia and beyond, attracting participants from around the world. Experts contribute to a rich dialogue by presenting research and interacting with each other on a broad array of topics, from the legal challenges posed by artificial intelligence (AI) to issues of data and platform governance. This vibrant exchange has been instrumental in facilitating a dynamic cross-pollination of ideas among attendees."
 
 
