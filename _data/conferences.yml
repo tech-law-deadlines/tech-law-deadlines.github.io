@@ -1,5 +1,21 @@
 ---
 
+- title: "Tenth Penn-Columbia Copyright Scholarship Roundtable "
+  full_name: "Tenth Penn-Columbia Copyright Scholarship Roundtable "
+  year: 2025
+  link: "https://forms.gle/TpU3GgibXYoxfzXm6"
+  id: "pccsr10"
+  deadline: ["2025-03-30 23:59"]
+  timezone: "America/New_York"
+  date: June 13
+  place: Philadelphia, PA
+  start: 2025-06-314
+  end: 2025-06-15
+  sub: ["IP"]
+  note: "No timezone indicated (New York assumed). The Roundtable is designed to be a forum for the discussion of current copyright scholarship, covering a range of methodologies, topics and perspectives. Approximately 7-9 papers will be chosen for discussion over the course of the Roundtable, with each paper allocated an entire hour for discussion. The organizers will cover the domestic travel and hotel expenses of presenters whose papers are selected for presentation at the Roundtable. A conference reception and dinner will take place on the evening of Friday, June 13. Participation in the Roundtable is by invitation only, and participants are expected to have read all the papers in advance and be present on both days of the event."
+
+
+
 - title: "Fifth Machine Lawyering Conference"
   full_name: "Fifth Machine Lawyering Conference"
   year: 2025
@@ -9,8 +25,8 @@
   timezone: "America/New_York"
   date: May 29
   place: Central, Hong Kong
-  start: 2024-05-30
-  end: 2024-05-31
+  start: 2025-05-30
+  end: 2025-05-31
   sub: ["IP", "PRIV", "SEC", "AI"]
   note: "No timezone indicated (New York assumed). Since its launch at CUHK LAW in 2020, the Machine Lawyering Conference has become a leading international forum for exploring the nexus between law and digital technology. It has earned an impressive reputation across Asia and beyond, attracting participants from around the world. Experts contribute to a rich dialogue by presenting research and interacting with each other on a broad array of topics, from the legal challenges posed by artificial intelligence (AI) to issues of data and platform governance. This vibrant exchange has been instrumental in facilitating a dynamic cross-pollination of ideas among attendees."
 
@@ -24,8 +40,8 @@
   timezone: "America/New_York"
   date: May 28
   place: Chicago, IL
-  start: 2024-05-29
-  end: 2024-05-30
+  start: 2025-05-29
+  end: 2025-05-30
   sub: ["IP"]
   note: "No timezone indicated (New York assumed). The first day of the workshop is intended to give scholars engaging in empirical studies of IP a chance to receive feedback on their work at an early stage in their research. Projects using any variety of empirical methods, including experimental methods and qualitative methods, are welcome. Ideal projects for the workshop are in their developmental stages where substantial data collection has not begun. Pilot data collection is, however, appropriate. To ensure substantial individualized feedback, the workshop will be organized around a modest number of developmental projects. Each project will be assigned to an expert commenter and will be allotted 45 minutes of discussion by the attendees. On the second day of the workshop, we will host a discussion of several more developed empirical IP projects by senior empirically-focused scholars.  Since the authors of those papers will serve as the discussants for the workshop papers, we expect workshop authors will remain for the discussion on the second day."
 
@@ -40,8 +56,8 @@
   timezone: "America/New_York"
   date: August 5
   place: National University of Singapore
-  start: 2024-08-05
-  end: 2024-08-06
+  start: 2025-08-05
+  end: 2025-08-06
   sub: ["IP", "AI"]
   note: "No timezone indicated (New York assumed). Proposals for presentations at the conference should contain the following: 1) Name, Job Title and Institutional Affiliation; 2) Title of Paper; 3) Abstract of Paper (no more than 1000 words); and 4) An indication of whether the final paper would be submitted to the SJLS. Proposals should be sent to Professor David Tan at david.tan@nus.edu.sg by 1 February 2025."
 
@@ -55,8 +71,8 @@
   timezone: "America/New_York"
   date: February 7
   place: Oklahoma City, OK
-  start: 2024-02-08
-  end: 2024-02-09
+  start: 2025-02-08
+  end: 2025-02-09
   sub: ["JUNIOR","IP"]
   note: "No timezone indicated (New York assumed). Contact Timothy Hsieh for details. From the call: The JIPSA Winter Workshop is open to any IP scholar (broadly defined) who has held a full-time academic position for seven (7) years or less (not counting time as a VAP or fellow). Participants can opt to present either a full draft or an early-stage outline (which can be as short as one page).  Generally, anyone who is eligible and wants to present can do so, there is not a submission / acceptance process.  We can also work with you if you want to present virtually or over Zoom but ideally we would love to have you attend in person to check out OCU Law and OKC."
 
@@ -71,8 +87,8 @@
   timezone: "America/New_York"
   date: March 25
   place: Munich, Germany
-  start: 2024-03-26
-  end: 2024-03-28
+  start: 2025-03-26
+  end: 2025-03-28
   sub: ["PRIV", "AI", "IP", "SEC"]
   note: "No timezone indicated (New York assumed). Submission Link: https://cslaw25.hotcrp.com/"
 
