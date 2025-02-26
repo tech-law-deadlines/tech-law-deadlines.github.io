@@ -1,7 +1,23 @@
 ---
 
-- title: "Tenth Penn-Columbia Copyright Scholarship Roundtable "
-  full_name: "Tenth Penn-Columbia Copyright Scholarship Roundtable "
+- title: "Amsterdam Trust Summit"
+  full_name: "Amsterdam Trust Summit 2025"
+  year: 2025
+  link: "https://digitaltrust.uva.nl/amsterdam-trust-summit-2025/call-for-papers-ats-2025.html?cb"
+  id: "ats25"
+  deadline: ["2025-03-14 23:59"]
+  timezone: "America/New_York"
+  date: August 28
+  place: Amsterdam, Netherlands
+  start: 2025-08-29
+  end: 2025-08-30
+  sub: ["PRIV", "SEC", "AI"]
+  note: "No timezone indicated (New York assumed). Email to cyberprof indicated later deadline than posted on website; see website for full details!"
+
+
+
+- title: "Tenth Penn-Columbia Copyright Scholarship Roundtable"
+  full_name: "Tenth Penn-Columbia Copyright Scholarship Roundtable"
   year: 2025
   link: "https://forms.gle/TpU3GgibXYoxfzXm6"
   id: "pccsr10"
@@ -9,7 +25,7 @@
   timezone: "America/New_York"
   date: June 13
   place: Philadelphia, PA
-  start: 2025-06-314
+  start: 2025-06-14
   end: 2025-06-15
   sub: ["IP"]
   note: "No timezone indicated (New York assumed). The Roundtable is designed to be a forum for the discussion of current copyright scholarship, covering a range of methodologies, topics and perspectives. Approximately 7-9 papers will be chosen for discussion over the course of the Roundtable, with each paper allocated an entire hour for discussion. The organizers will cover the domestic travel and hotel expenses of presenters whose papers are selected for presentation at the Roundtable. A conference reception and dinner will take place on the evening of Friday, June 13. Participation in the Roundtable is by invitation only, and participants are expected to have read all the papers in advance and be present on both days of the event."
