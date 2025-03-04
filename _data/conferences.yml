@@ -1,5 +1,20 @@
 ---
 
+- title: "IPRE"
+  full_name: "IP Researchers Europe Conference 2025"
+  year: 2025
+  link: "https://www.unige.ch/droit/pi/research/ipre/2025"
+  id: "ipre25"
+  deadline: ["2025-03-17 23:59"]
+  timezone: "America/New_York"
+  date: June 20
+  place: Geneva, Switzerland
+  start: 2025-06-20
+  end: 2025-06-21
+  sub: ["IP"]
+  note: "No timezone indicated (New York assumed). Established in 2018, IPRE is a collaborative effort between UNIGE, WIPO, and WTO to convene IP scholars in Geneva, a city privileged for its position as an international forum for policy debates about current and future IP laws and policies. Since then, the Conference has brought together academic researchers from Europe and beyond to discuss their works-in-progress with other colleagues and policymakers."
+
+
 - title: "Amsterdam Trust Summit"
   full_name: "Amsterdam Trust Summit 2025"
   year: 2025
