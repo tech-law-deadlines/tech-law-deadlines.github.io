@@ -1,5 +1,22 @@
 ---
 
+
+- title: "Re-Imagining Cryptography and Privacy (ReCAP) Workshop"
+  full_name: "Re-Imagining Cryptography and Privacy (ReCAP) Workshop 2025"
+  year: 2025
+  link: "https://recapworkshop.online/"
+  id: "recap25"
+  deadline: ["2025-04-10 23:59"]
+  timezone: "UTC-12"
+  date: June 3
+  place: NYC, NY
+  start: 2025-06-04
+  end: 2025-06-05
+  sub: ["SEC", "PRIV"]
+  note: "The aim of the workshop is to explore the ways in which cryptography and privacy intersect with society toward designing, creating, and sustaining technologies that explicitly benefit marginalized communities. We welcome work and perspectives from social scientists, humanities scholars, community organizations, industry practitioners, technologists, and academics outside of cryptography. ReCAP 2025 is a hybrid workshop from June 3-4 that will take place physically in City College of New York in New York, New York (USA) and virtually on Zoom."
+
+
+
 - title: "IPRE"
   full_name: "IP Researchers Europe Conference 2025"
   year: 2025
