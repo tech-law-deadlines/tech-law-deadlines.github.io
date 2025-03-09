@@ -1,5 +1,34 @@
 ---
 
+- title: "First Annual Hoover Institution (Stanford) / ASU Law Aspiring Free Speech Scholars Workshop"
+  full_name: "First Annual Hoover Institution (Stanford) / ASU Law Aspiring Free Speech Scholars Workshop 2025"
+  year: 2025
+  link: "http://tinyurl.com/aspiring-free-speech-faq"
+  id: "fssw25"
+  deadline: ["2025-05-05 23:59"]
+  timezone: "America/New_York"
+  date: 
+  place: Earth
+  start: 
+  end: 
+  sub: ["PRIV", "AI", "IP"]
+  note: "No timezone indicated (New York assumed). Focus on free speach (tags for priv., AI, and IP are general). The CALL ---> Are you a law student, judicial law clerk, or lawyer hoping to publish your first, second, or third law review article related to free speech law?  Would you like the opportunity to get advice about your draft from leading free speech scholars? If so, send us your draft by May 15, 2025.  (This should still be a draft article, not an article that’s already published or expected to be published within six months or less.)  We plan to select the submissions that we think are particularly promising, and invite their authors to a workshop—planned for early in the Fall—where they can present their papers and get helpful feedback on them.  We have funds to pay for transportation and lodging for the selected authors’ trips."
+
+
+- title: "Legally Compliant Intelligent Chatbots – The Challenge of Persuasion and Manipulation"
+  full_name: "Legally Compliant Intelligent Chatbots – The Challenge of Persuasion and Manipulation 2025"
+  year: 2025
+  link: "https://site.unibo.it/compulaw/en/project/open-calls"
+  id: "LCIC25"
+  deadline: ["2025-05-05 23:59"]
+  timezone: "America/New_York"
+  date: June 16
+  place: Chicago, IL
+  start: 2025-06-17
+  end: 2025-06-17
+  sub: ["AI"]
+  note: "No timezone indicated (New York assumed). Date: June 16 or 20, 2025 (exact to be confirmed later). This workshop, supported by the ERC Advanced Grant Project CompuLaw and organised by the European University Institute, focuses on developing methodologies to create legally compliant chatbot systems. It seeks to explore logic-based models, machine learning, and large language models (LLMs) to address the challenges of ethically permissible persuasion in intelligent chatbots.We invite the submission of long (up to 15 pages) and short papers (up to 8 pages) that address theoretical, technical, and empirical aspects of legally compliant chatbots. Submissions will be peer-reviewed and evaluated based on relevance, innovation, and potential contributions to the workshop discussions."
+
 
 - title: "Re-Imagining Cryptography and Privacy (ReCAP) Workshop"
   full_name: "Re-Imagining Cryptography and Privacy (ReCAP) Workshop 2025"
