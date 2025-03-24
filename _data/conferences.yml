@@ -1,5 +1,35 @@
 ---
 
+- title: "Eighth Junior Faculty Forum on Law and STEM"
+  full_name: "Eighth Junior Faculty Forum on Law and STEM"
+  year: 2025
+  link: "https://wwws.law.northwestern.edu/research-faculty/events/conferences/documents/law-stem-call-for-papers-2025.pdf"
+  id: "JFFLSTEM25"
+  deadline: ["2025-06-03 23:59"]
+  timezone: "America/New_York"
+  date: September 26
+  place: Chicago, IL 
+  start: 2025-09-27
+  end: 2025-09-28
+  sub: ["JUNIOR", "SEC", "PRIV", "AI", "IP"]
+  note: "No timezone indicated (New York assumed). The Northwestern, Penn and Stanford law schools are pleased to announce a Call for Papers for the Eighth Junior Faculty Forum on Law and STEM, which will be held at Northwestern on September 26-27, 2025.  The Forum is dedicated to interdisciplinary scholarship focusing on the intersection of Law and Science-Technology-Engineering-Mathematics (STEM).  We are seeking submissions from junior faculty in any discipline interested in presenting papers at the Forum.  The deadline for submissions is June 3, 2025."
+
+
+- title: "User Rights Symposium 2025: Principles for Progress in the WIPO Standing Committee on Copyright and Related Rights"
+  full_name: "User Rights Symposium 2025: Principles for Progress in the WIPO Standing Committee on Copyright and Related Rights"
+  year: 2025
+  link: "https://docs.google.com/document/d/1SCygEQm9_AxcRYesYaEX6mgSfp4UkAkWGk3G1qP62eA/edit?usp=sharing"
+  id: "urs25"
+  deadline: ["2025-04-01 23:59"]
+  timezone: "America/New_York"
+  date: June 16
+  place: Geneva, Switzerland
+  start: 2025-06-17
+  end: 2025-06-19
+  sub: ["AI", "IP"]
+  note: "No timezone indicated (New York assumed). This year’s symposium will be limited to 50 attendees to maximize the possibility for deliberation and community building among scholars and practitioners on a targeted set of issues. The meetings will include both presentations of finished scholarship and works in progress and deliberations of principles for a statement."
+
+
 - title: "First Annual Hoover Institution (Stanford) / ASU Law Aspiring Free Speech Scholars Workshop"
   full_name: "First Annual Hoover Institution (Stanford) / ASU Law Aspiring Free Speech Scholars Workshop 2025"
   year: 2025
