@@ -1,5 +1,20 @@
 ---
 
+- title: Stanford Trust and Safety Research Conference 2025
+  full_name:  Stanford Cyber Policy Center, Trust and Safety Research Conference 2025
+  year: 2025
+  id: tsrc
+  link: "https://docs.google.com/forms/d/e/1FAIpQLSemDhJL6JFBHg9CnBJpsJGfW4p9Jk2un6cXu1UqWV1UHx63TA/viewform"
+  deadline: ["2025-04-30 23:59"]
+  timezone: "America/Los_Angeles"
+  date: September 25
+  place:  Stanford, CA
+  start: 2025-09-26
+  end: 2025-09-27
+  sub: ["AI", "PRIV", "SEC", "IP"]
+  note: "The Stanford Cyber Policy Center's two day Trust and Safety Research Conference (September 25-26, 2025) focuses on research in trust and safety for those in academia, industry, civil society, and government."
+
+
 - title: Legal Responses to the Existential Threat Posed by Artificial Intelligence
   full_name: Legal Responses to the Existential Threat Posed by Artificial Intelligence
   year: 2025
