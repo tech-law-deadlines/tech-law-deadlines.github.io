@@ -1,5 +1,33 @@
 ---
 
+- title: "AALS Section on Intellectual Property - Virtual Workshop"
+  full_name: "AALS IP Section Virtual Workshop"
+  year: 2025
+  id: "AALSip"
+  deadline: ["2025-06-15 23:59"]
+  timezone: "America/New_York"
+  date: July 8
+  place: Virtual
+  start: 2025-07-09
+  end: 2025-07-09
+  sub: ["JUNIOR","IP"]
+  note: "No timezone indicated (New York assumed). We particularly encourage scholars preparing job talks to apply and use the workshop as a sounding board. We will accept up to four papers, and each paper will be allotted forty-five minutes for presentation and discussion. All selected authors will be expected to read the other papers prior to the workshop. We also encourage IP scholars at any career stage to join the roundtable as discussants. To participate as a presenter or discussant, please send a draft (or request to be a discussant) to Eric Priest at priest@uoregon.edu by June 15."
+
+
+- title: "JIPSA (Summer 25)"
+  full_name: "Junior Intellectual Property Scholars Association - Summer Workshop"
+  year: 2025
+  id: "jipsasummer25"
+  deadline: ["2025-06-02 23:59"]
+  timezone: "America/New_York"
+  date: July 31
+  place: Madison, WI
+  start: 2025-07-01
+  end: 2025-07-02
+  sub: ["JUNIOR","IP"]
+  note: "No timezone indicated (New York assumed). Sign up here: https://forms.gle/vUMczAT7oJjeq2B77"
+
+
 - title: Stanford Trust and Safety Research Conference 2025
   full_name:  Stanford Cyber Policy Center, Trust and Safety Research Conference 2025
   year: 2025
@@ -214,7 +242,7 @@
 
 
 
-- title: "JIPSA"
+- title: "JIPSA (Winter 25)"
   full_name: "Junior Intellectual Property Scholars Association - Winter Workshop"
   year: 2025
   id: "jipsawinter25"
