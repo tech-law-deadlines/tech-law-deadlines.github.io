@@ -1,5 +1,20 @@
 ---
 
+- title: "Tübingen Conference for AI and Law"
+  full_name: "Tübingen Conference for AI and Law"
+  year: 2025
+  id: "tcAIlaw25"
+  link: "https://ailawinstitute.de/conference-for-ai-and-law/"
+  deadline: ["2025-06-03 23:59"]
+  timezone: "America/New_York"
+  date: November 5
+  place: Tübingen, Germany
+  start: 2025-11-06
+  end: 2025-11-07
+  sub: ["AI"]
+  note: "No timezone indicated (New York assumed). The conference brings together academic researchers from both computer science and law in an interdisciplinary format that fosters exchange and discussions between these two fields. It targets an international, academic audience that is willing to think beyond the boundaries of their own discipline."
+
+
 - title: "AALS Section on Intellectual Property - Virtual Workshop"
   full_name: "AALS IP Section Virtual Workshop"
   year: 2025
