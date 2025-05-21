@@ -19,6 +19,7 @@
   full_name: "AALS IP Section Virtual Workshop"
   year: 2025
   id: "AALSip"
+  link: "https://www.aals.org/sections/list/intellectual-property/"
   deadline: ["2025-06-15 23:59"]
   timezone: "America/New_York"
   date: July 8
@@ -33,6 +34,7 @@
   full_name: "Junior Intellectual Property Scholars Association - Summer Workshop"
   year: 2025
   id: "jipsasummer25"
+  link: "https://forms.gle/vUMczAT7oJjeq2B77"
   deadline: ["2025-06-02 23:59"]
   timezone: "America/New_York"
   date: July 31
