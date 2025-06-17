@@ -1,5 +1,20 @@
 ---
 
+- title: "IP Works in Progress Roundtable (IPWIP)"
+  full_name: "Fall 2025 IP Works in Progress Roundtable (IPWIP)"
+  year: 2025
+  id: "ipwipf25"
+  link: "https://law.northeastern.edu/event/new-england-ip-works-in-progress/"
+  deadline: ["2025-07-15 23:59"]
+  timezone: "America/New_York"
+  date: September 26
+  place: Boston, MA
+  start: 2025-09-27
+  end: 2025-09-28
+  sub: ["IP", "JUNIOR"]
+  note: "No timezone indicated (New York assumed). The Center for Law, Information and Creativity (CLIC) at Northeastern University School of Law invites New England-area law professors to submit an abstract for its Fall 2025 IP Works in Progress Roundtable. The workshop will feature works in progress in intellectual property, privacy and/or technology law."
+
+
 - title: "Tübingen Conference for AI and Law"
   full_name: "Tübingen Conference for AI and Law"
   year: 2025
