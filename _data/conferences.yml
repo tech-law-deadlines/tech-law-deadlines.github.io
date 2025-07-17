@@ -1,5 +1,21 @@
 ---
 
+- title: "Law and Technology Workshop (Fall—monthly)"
+  full_name: Fall 2025 Law and Technology Workshop (monthly) 
+  year: 2025
+  id: "ltws25fall"
+  link: "https://forms.gle/oMkifiyr3wk53qfY6"
+  deadline: ["2025-08-15 23:59"]
+  timezone: "America/New_York"
+  date: September 19
+  place: earth
+  start: 2025-09-20
+  end: 2025-09-20
+  sub: ["PRIV", "AI", "IP"]
+  note: "Online (monthly, First Session: September 19, 2025; subsequent Sessions: 3rd Friday of Each Month); no timezone indicated (New York assumed); more information on the Workshop can be found here: https://lawtechworkshop.org/. "
+
+
+
 - title: "Mid-Atlantic Patent Works-in-Progress (MAPWIP)"
   full_name: "13th Annual Mid-Atlantic Patent Works-in-Progress (MAPWIP) Colloquium, hosted at Georgetown Law"
   year: 2025
