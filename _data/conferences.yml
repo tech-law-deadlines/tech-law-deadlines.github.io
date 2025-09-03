@@ -1,5 +1,20 @@
 ---
 
+- title: "CS&Law"
+  full_name: 5th ACM Symposium on Computer Science and Law
+  year: 2026
+  id: "csandlaw26"
+  link: "https://computersciencelaw.org/2026-2/2026-cfp/"
+  deadline: ["2025-09-30 23:59"]
+  timezone: "America/New_York"
+  date: March 3-5
+  place: Berkeley, CA
+  start: 2026-03-04
+  end: 2026-03-06
+  sub: ["PRIV", "AI", "IP", "SEC"]
+  note: "No timezone indicated on deadline (New York assumed). The ACM Symposium on Computer Science and Law is the flagship conference for the emerging field of computer science and law. It brings together a community—scholars, practicing lawyers, and computing professionals—who are fluent both in computational thinking and its rigorous mathematical formalisms and in legal scholarship and thought with its equally rigorous yet human-centric set of principles, methodologies, and goals. Central to the study of “computer science and law” is the creation of a body of scholarship aimed towards the co-design of law and computing technology to promote social goals. We seek papers that combine rigorous technical computer-science reasoning with rigorous legal analysis to integrate the two disciplines."
+
+
 - title: "sh[AI]rk tank"
   full_name: sh[AI]rk tank in NOLA
   year: 2026
