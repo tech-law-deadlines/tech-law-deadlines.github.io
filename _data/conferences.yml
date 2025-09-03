@@ -1,6 +1,21 @@
 ---
 
-- title: "FCA"
+- title: "sh[AI]rk tank"
+  full_name: sh[AI]rk tank in NOLA
+  year: 2026
+  id: "shAIrk26"
+  link: "https://docs.google.com/forms/d/e/1FAIpQLSf6b2HZhMwGLgNy51iMaiPJydqMK6KfqB7IbKYRoPi8XoOu8Q/viewform"
+  deadline: ["2025-09-17 23:59"]
+  timezone: "America/New_York"
+  date: January
+  place: New Orleans, LA
+  start: 2026-01-07
+  end: 2026-01-10
+  sub: ["AI"]
+  note: "No timezone indicated on deadline (New York assumed). Following on the success of three sh[AI]rk tank events this summer organized by the AI Innovation and Law Program at the University of Texas School of Law, Professors Kevin Frazier, Kevin Lee, and Renee Henson are hosting an open source program at this year's AALS gathering in New Orleans. This event is for junior scholars (fewer than eight years in a tenure-track role. Junior researchers and non-faculty may also apply). We encourage submissions on a range of topics related to AI (prior scholarship in AI is not a requirement!)."
+
+
+- title: "Symposium on The Future of the Copyright Act (George Washington University Center for Law and Technology and the Copyright Society)"
   full_name: Symposium on The Future of the Copyright Act (George Washington University Center for Law and Technology and the Copyright Society)
   year: 2026
   id: "fcaGW26"
@@ -15,7 +30,7 @@
   note: "No timezone indicated (New York assumed). Proposals will be due by October 15, 2025, and we will issue acceptances by November 15, 2025.  An early draft will be due June 15, 2026, and complete paper drafts will be due by August 1, 2026, so that commentators have ample time to read them and prepare comments for the  symposium.  Papers will be published in the December 2026 issue of the Journal of the Copyright Society, along with commentary and other symposium proceedings. Authors of accepted papers who choose to attend the symposium in person will be reimbursed for travel and two nights of accommodations in Washington DC.  Virtual participation is also possible. If paper drafts are not received by the August 1, 2026 deadline, travel will not be reimbursed and papers will not be published in the December 2026 Journal of the Copyright Society issue."
 
 
-- title: "IPIRA"
+- title: "IPIRA (Eighth IP and Innovation Researchers of Asia)"
   full_name: Eighth IP and Innovation Researchers of Asia (IPIRA) Conference
   year: 2026
   id: "ipira26"
