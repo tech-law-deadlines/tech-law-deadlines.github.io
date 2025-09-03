@@ -1,5 +1,35 @@
 ---
 
+- title: "FCA"
+  full_name: Symposium on The Future of the Copyright Act (George Washington University Center for Law and Technology and the Copyright Society)
+  year: 2026
+  id: "fcaGW26"
+  link: "https://copyrightsociety.org/submit-article/"
+  deadline: ["2025-10-15 23:59"]
+  timezone: "America/New_York"
+  date: October
+  place: Washington, D.C.
+  start: 2026-10-03
+  end: 2026-10-04
+  sub: ["IP"]
+  note: "No timezone indicated (New York assumed). Proposals will be due by October 15, 2025, and we will issue acceptances by November 15, 2025.  An early draft will be due June 15, 2026, and complete paper drafts will be due by August 1, 2026, so that commentators have ample time to read them and prepare comments for the  symposium.  Papers will be published in the December 2026 issue of the Journal of the Copyright Society, along with commentary and other symposium proceedings. Authors of accepted papers who choose to attend the symposium in person will be reimbursed for travel and two nights of accommodations in Washington DC.  Virtual participation is also possible. If paper drafts are not received by the August 1, 2026 deadline, travel will not be reimbursed and papers will not be published in the December 2026 Journal of the Copyright Society issue."
+
+
+- title: "IPIRA"
+  full_name: Eighth IP and Innovation Researchers of Asia (IPIRA) Conference
+  year: 2026
+  id: "ipira26"
+  link: "http://ipresearchersasia.org/past-conferences/"
+  deadline: ["2025-10-20 23:59"]
+  timezone: "America/New_York"
+  date: January
+  place: Singapore
+  start: 2026-01-30
+  end: 2026-01-31
+  sub: ["IP"]
+  note: "No timezone indicated (New York assumed). The Eighth IPIRA Conference is organized by the IPIRA Network and Singapore University of Social Sciences in cooperation with the Organizers of the previous IPIRA Conferences: the Ahmad Ibrahim Kulliyyah of Laws, International Islamic University Malaysia; the Division of Business Law, Nanyang Business School, Nanyang Technological University; Foreign Trade University; the Faculty of Law, Universitas Indonesia; the Faculty of Law, Waseda University; Texas A&M University School of Law; and the Faculty of Law, University of Geneva. The Conference will also be supported by the World Intellectual Property Organization (WIPO) and the World Trade Organization (WTO), as well as the Intellectual Property Office of Singapore (IPOS)."
+
+
 - title: "Law and Technology Workshop (Fall—monthly)"
   full_name: Fall 2025 Law and Technology Workshop (monthly) 
   year: 2025
