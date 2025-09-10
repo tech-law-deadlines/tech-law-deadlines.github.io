@@ -1,5 +1,35 @@
 ---
 
+- title: "Junior Intellectual Property Scholars Association - Winter Workshop"
+  full_name: Junior Intellectual Property Scholars Association Winter Workshop
+  year: 2025
+  id: "jipsawinter25"
+  link: "https://forms.gle/HnaKYGzuN2aKrNKm7"
+  deadline: ["2025-10-06 23:59"]
+  timezone: "America/New_York"
+  date: December 4-5
+  place: New York, NY
+  start: 2025-12-05
+  end: 2025-12-06
+  sub: ["IP", "JUNIOR"]
+  note: "No timezone indicated on deadline (New York assumed). JIPSA workshops are open to any IP scholar who has held a tenure-track or long-term contract academic position for 7 years or less (not counting time as a VAP or fellow). Projects at any stage are welcome, and you are welcome to attend without presenting. Please sign up by submitting the questionnaire below by Monday, October 6."
+
+
+- title: "Wharton Accountable AI Lab: Accountable AI Research Conference"
+  full_name: Accountable AI Research Conference 
+  year: 2026
+  id: "AAIRC26"
+  link: "https://ai-analytics.wharton.upenn.edu/wharton-accountable-ai-lab/accountable-ai-research-conference/"
+  deadline: ["2025-10-27 23:59"]
+  timezone: "America/New_York"
+  date: February 6
+  place: Philadelphia, PA
+  start: 2026-02-07
+  end: 2026-02-07
+  sub: ["AI"]
+  note: "No timezone indicated on deadline (New York assumed). The inaugural Accountable AI Research Conference will bring together scholars from law and other fields. The risks and limitations of AI have been the subject of scholarly attention for many years. Yet there has been a dramatic upsurge in AI business adoption, technical capabilities, investment, and public policy activity. This conference centers scholarship with a normative, legal, or public policy focus, and emphasizes work with the potential for impact on business practice and government actions."
+
+
 - title: "CS&Law"
   full_name: 5th ACM Symposium on Computer Science and Law
   year: 2026
@@ -135,7 +165,7 @@
   note: "No timezone indicated (New York assumed). We particularly encourage scholars preparing job talks to apply and use the workshop as a sounding board. We will accept up to four papers, and each paper will be allotted forty-five minutes for presentation and discussion. All selected authors will be expected to read the other papers prior to the workshop. We also encourage IP scholars at any career stage to join the roundtable as discussants. To participate as a presenter or discussant, please send a draft (or request to be a discussant) to Eric Priest at priest@uoregon.edu by June 15."
 
 
-- title: "JIPSA (Summer 25)"
+- title: "Junior Intellectual Property Scholars Association - Summer Workshop"
   full_name: "Junior Intellectual Property Scholars Association - Summer Workshop"
   year: 2025
   id: "jipsasummer25"
@@ -364,7 +394,7 @@
 
 
 
-- title: "JIPSA (Winter 25)"
+- title: "Junior Intellectual Property Scholars Association - Winter Workshop"
   full_name: "Junior Intellectual Property Scholars Association - Winter Workshop"
   year: 2025
   id: "jipsawinter25"
@@ -804,7 +834,7 @@ including footnotes"
   sub: ["IP"]
   note: "no timezone indicated in call for abstrats (New York assumed)"
 
-- title: JIPSA
+- title: Junior Intellectual Property Scholars Association - Summer Workshop
   full_name: "Junior IP Scholars Association (Summer Workshop)"
   year: 2024
   id: jipsa24
