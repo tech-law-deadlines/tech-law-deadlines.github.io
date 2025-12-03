@@ -1,5 +1,20 @@
 ---
 
+- title: "ATRIP 44th Annual Congress"
+  full_name: ATRIP 44th Annual Congress
+  year: 2026
+  id: "ATRIP44"
+  link: "https://atrip.org/call-for-papers/"
+  deadline: ["2026-02-06 23:59"]
+  timezone: "UTC-12"
+  date: June 28-July 1
+  place: Sao Paulo, Brazil
+  start: 2026-06-29
+  end: 2026-07-02
+  sub: ["IP",]
+  note: "No timezone indicated (UTC-12 assumed). The 44th ATRIP Congress embraces the broadest sense of the term politics, from power relations to realpolitik, to explore how politics shapes IP law and how IP law, in turn, serves political purposes. Theme---Intellectual Property and Politics: From Power Relations to Realpolitik."
+
+
 - title: Internet Law Works-in-Progress Conference
   full_name: "Internet Law Works-in-Progress Conference 2026"
   year: 2026
@@ -664,8 +679,7 @@
   start: 2025-06-23
   end: 2025-06-26
   sub: ["IP",]
-  note: "No timezone indicated (New York assumed); age restriction (35 years old as of December 31, 2024) but exceptions may apply; the text of the paper should be no less than 5,000 words and no more than 10,000 words,
-including footnotes"
+  note: "No timezone indicated (New York assumed); age restriction (35 years old as of December 31, 2024) but exceptions may apply; the text of the paper should be no less than 5,000 words and no more than 10,000 words, including footnotes"
 
 
 
