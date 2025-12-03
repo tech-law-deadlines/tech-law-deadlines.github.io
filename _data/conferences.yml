@@ -1,5 +1,49 @@
 ---
 
+- title: Internet Law Works-in-Progress Conference
+  full_name: "Internet Law Works-in-Progress Conference 2026"
+  year: 2026
+  id: ILWiP26
+  link: "https://docs.google.com/forms/d/e/1FAIpQLSddRJ3ebI_qVdRUVFthGujzXQPXrkwcYktvnzVUTs_MdTeMmw/viewform"
+  deadline: '2025-12-08 23:59'
+  timezone: "America/New_York"
+  place: New York, New York
+  date: March 07
+  start: 2026-03-08
+  end: 2026-03-08
+  sub: ["PRIV", "AI", "IP", "SEC"]
+  note: "No timezone indicated on deadline (New York assumed). ILWIP provides a venue for feedback on works in progress (at any stage) in Internet law and related fields (broadly construed). Authors give presentations of their drafts and get pre-publication feedback from peers. Discussion is extensive and collegial, and many authors report that the feedback they receive at ILWIP is extremely helpful in refining their papers. All are welcome; participants do not need to present to attend and join in the discussions."
+
+
+- title: PLSC Junior Abstract Workshop
+  full_name: "Privacy Law Scholars Conference, Junior Abstract Workshop"
+  year: 2026
+  id: plsc26
+  link: "https://docs.google.com/forms/d/e/1FAIpQLScs-7WtTgKPrVzcsX2nZ2Kr6_XCgL0pFWOGZnA7wDMKfJZ_Yw/viewform?fbzx=-4276124423015297771"
+  deadline: '2026-01-04 23:59'
+  timezone: "America/Los_Angeles"
+  place: Online
+  date: January 05
+  start: 2026-01-02
+  end: 2026-01-02
+  sub: ["PRIV"]
+  note: "This workshop will give participants an opportunity to receive feedback on their abstracts before they are submitted for consideration to PLSC 2026. During this virtual workshop, participants will receive 15-20 minutes of constructive comments on their abstracts. The workshop will be held over Zoom, and if our numbers are large enough, we will split into breakout rooms for more focused discussions. This is an excellent opportunity to ensure your abstract effectively communicates your work to the reviewers."
+
+
+- title: PLSC
+  full_name: "Privacy Law Scholars Conference"
+  year: 2026
+  id: plsc26
+  link: "https://docs.google.com/forms/d/e/1FAIpQLSeFZm3-gyWJjb4SOKwmXP63i5XUFvTuFm37wLw0YpiLhMTZLg/viewform"
+  deadline: '2026-01-20 23:59'
+  timezone: "America/Los_Angeles"
+  place: Bloomington, Indiana
+  date: May 28-29
+  start: 2026-05-29
+  end: 2026-05-30
+  sub: ["PRIV"]
+  note: "PLSC is a paper workshop conference. It offers no opportunity or obligation to publish. The goal is to provide support for in-progress scholarship related to information privacy law. The boundaries of privacy as a discipline are dynamic and contested. Although PLSC emphasizes the law of privacy, concepts from other fields play critical roles in our understanding of privacy and in shaping the law."
+
 
 - title: "Privacy Symposium"
   full_name: "Privacy Symposium: International Conference on Data Protection, Compliance, and Technology"
@@ -7,6 +51,7 @@
   id: "privacySymposium26"
   link: "https://privacysymposium.org/wp-content/uploads/2025/10/Privacy-Symposium-2026-call-for-paper-presentation.pdf"
   deadline: ["2025-11-13 23:59"]
+  timezone: "America/New_York"
   date: April 20-24
   place: Venice, Italy
   start: 2026-04-21
@@ -21,6 +66,7 @@
   id: "chicagoland26"
   link: "https://docs.google.com/forms/d/e/1FAIpQLSf5VJnaXRvfAsMTctW-HFgSOMN_eb3-PgOIWvg2w49Q2RBhcw/viewform?usp=dialog"
   deadline: ["2025-10-31 23:59"]
+  timezone: "America/New_York"
   date: December 5
   place: Chicago, Illinois
   start: 2025-12-06
@@ -35,6 +81,7 @@
   id: "werobot26"
   link: "https://ai-laws.org/wp-content/uploads/2025/10/We-Robot-2026-CfP_Final.pdf"
   deadline: ["2025-11-17 23:59"]
+  timezone: "America/New_York"
   date: April 24, 25
   place: Berlin, Germany
   start: 2026-04-25
@@ -49,6 +96,7 @@
   id: "wipip26"
   link: "https://docs.google.com/forms/d/e/1FAIpQLSfAikxlHR1UIR35aa269Zw4gD4VAAFlLGJukFvmAM26ZbbZLg/viewform"
   deadline: ["2025-10-31 23:59"]
+  timezone: "America/New_York"
   date: February 27
   place: Boston, MA
   start: 2026-02-28
