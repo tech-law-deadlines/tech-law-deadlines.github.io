@@ -1,5 +1,21 @@
 ---
 
+- title: "Law and Technology Workshop (Spring—monthly)"
+  full_name: Spring 2026 Law and Technology Workshop (monthly) 
+  year: 2026
+  id: "ltws26spring"
+  link: "https://docs.google.com/forms/d/e/1FAIpQLSdw1NCBB4mb8rg9ZqzjGBAauPm02zQ8a2Q7eEmkExlGZF3ZVA/viewform"
+  deadline: ["2026-02-06 23:59"]
+  timezone: "America/New_York"
+  date: March 20
+  place: earth
+  start: 2026-03-20
+  end: 2026-03-20
+  sub: ["PRIV", "AI", "IP"]
+  note: "No timezone indicated (New York assumed). This monthly virtual series—now in its sixth year—serves as an intellectual home for scholars exploring the constantly-evolving field of law and technology. Each session is centered on a work-in-progress shared in advance, introduced by a discussant, and followed by a spirited conversation with fellow participants. Authors are required to provide a discussion draft for circulation a week before their scheduled session. Our format is designed to provide deep, constructive feedback and to cultivate a collegial, interdisciplinary community. More information on the Workshop can be found here: https://thelawtechworkshop.org. "
+
+
+
 - title: "ATRIP 44th Annual Congress"
   full_name: ATRIP 44th Annual Congress
   year: 2026
