@@ -1,5 +1,51 @@
 ---
 
+
+- title: LSRAI (Legal Scholars Roundtable on Artificial Intelligence)
+  full_name: "Fifth Annual Legal Scholars Roundtable on Artificial Intelligence"
+  year: 2026
+  id: lsrai26
+  link: "https://forms.gle/h5Vqgj6xpDNSjfFDA"
+  deadline: '2026-02-15 23:59'
+  timezone: "America/New_York"
+  place: Atlanta, Georgia
+  date: April 9-10
+  start: 2026-04-10
+  end: 2026-04-11
+  sub: ["AI"]
+  note: "No timezone indicated (New York assumed). The Legal Scholars Roundtable on Artificial Intelligence is a forum for the discussion of current legal scholarship on AI, spanning a range of methodologies, topics, perspectives, and legal intersections. Authors who present at the Roundtable will be selected from a competitive application process, and commentators are assigned based on their expertise. Participants will have an opportunity to provide direct feedback in paper sessions and will have access to draft papers but will be asked not to post papers publicly or share without author permission. Robust sessions involve energetic feedback from other paper authors, commentators, and participants. Our goal is to ensure all authors have the full participation of all workshop participants in each author’s session."
+
+
+- title: "Leuven IP and AI Conference 2026"
+  full_name: Leuven IP and AI Conference 2026
+  year: 2026
+  id: "leuvenIPAI26"
+  link: "https://www.law.kuleuven.be/citip/en/citip-conferences/ip-and-ai/leuven-ip-and-ai-conference-2026/call-for-papers"
+  deadline: ["2026-01-31 23:59"]
+  timezone: "America/New_York"
+  date: May 18
+  place: University in Leuven, Belgium
+  start: 2026-05-19
+  end: 2026-05-19
+  sub: ["AI", "IP"]
+  note: "No timezone indicated (New York assumed). Artificial Intelligence (AI) is reshaping creativity and innovation in ways that are yet to be fully understood. While Intellectual Property (IP) has long mediated the relationship between law and technological innovation, AI poses new challenges to established legal and regulatory approaches. The complexity and opacity of AI, as well as the pace at which it is being developed and adopted, often leaves legal scholars in a state of contemplative deferral in their analytical and normative evaluations. Against this background, the Leuven IP and AI conference 2026 – following the successful Durham 2025 first edition – aims to bring together national, European and global IP scholars and practitioners to provide a platform for advanced reflection on the latest developments in IP and AI. In particular, the conference aims to examine consolidated as well as innovative solutions to maintain a dynamic balance between rewarding creators and ensuring access to knowledge in the age of AI, and it invites reflections on how evolving IP frameworks can foster sustainable economic, cultural and technological development."
+
+
+- title: "Workshop on Law-Following AI"
+  full_name: 2026 Workshop on Law-Following AI 
+  year: 2026
+  id: "lfai26"
+  link: "https://law-ai.org/event/2026-workshop-on-law-following-ai/"
+  deadline: ["2026-03-06 23:59"]
+  timezone: "America/New_York"
+  date: June 10-13
+  place: Cambridge, UK
+  start: 2026-06-11
+  end: 2026-06-14
+  sub: ["AI"]
+  note: "No timezone indicated (New York assumed). The Workshop brings together scholars from law, computer science, and adjacent fields to advance foundational research on how increasingly agentic AI systems can be designed to reliably follow human law. Substantive themes include (among others): what it means for an AI system to follow the law, which bodies of law should govern different classes of systems, how to handle legal uncertainty, and how normative legal concepts can be operationalized in technical design. "
+
+
 - title: "Law and Technology Workshop (Spring—monthly)"
   full_name: Spring 2026 Law and Technology Workshop (monthly) 
   year: 2026
@@ -639,7 +685,7 @@
 
 
 
-- title: LSRAI
+- title: LSRAI (Legal Scholars Roundtable on Artificial Intelligence)
   full_name: "Fourth Annual Legal Scholars Roundtable on Artificial Intelligence"
   year: 2025
   id: lsrai25
@@ -941,8 +987,8 @@
   note: "General deadline, target a window around these dates"
 
 
-- title: LSRAI
-  full_name: Legal Scholars Roundtable on Artificial Intelligence
+- title: LSRAI Legal Scholars Roundtable on Artificial Intelligence
+  full_name: Third Annual Legal Scholars Roundtable on Artificial Intelligence
   year: 2024
   id: lsrai24
   link: "https://www.dropbox.com/scl/fi/92vn6e312ent2vmzignk5/CFP-AI-Roundtable-2024-version-1.1.docx?rlkey=fojrvh0znue7mtgh4qd8zrha1&e=2&st=4zrdy76t&dl=0"
