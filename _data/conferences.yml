@@ -1,5 +1,19 @@
 ---
 
+- title: "CLPSC 2026"
+  full_name: Cybersecurity Law and Policy Scholars Conference 2026
+  year: 2026
+  id: "clpsc2026"
+  link: "https://www.clpsc.org/call-for-papers"
+  deadline: ["2026-02-15 23:59"]
+  timezone: "UTC-12"
+  date: April 17-18
+  place: Chicago, IL
+  start: 2026-04-18
+  end: 2026-04-19
+  sub: ["PRIV", "AI", "SEC"]
+  note: "No timezone indicated (New York assumed). The Cybersecurity Law & Policy Scholars Conference is the preeminent U.S. interdisciplinary conference focused on cybersecurity law and policy. Since 2021, we have provided a forum for developing cybersecurity scholarship in the U.S. and internationally. The paper workshops will be modeled after the Privacy Law Scholars Conference. Each paper will be assigned a discussant, who will introduce the paper and provide comments. This will be followed by comments from the audience. The conference only provides an opportunity to workshop the papers; the conference will not publish papers or other proceedings. We expect accepted authors to attend the entire conference and read at least one paper for each scheduled session."
+
 
 - title: LSRAI (Legal Scholars Roundtable on Artificial Intelligence)
   full_name: "Fifth Annual Legal Scholars Roundtable on Artificial Intelligence"
@@ -835,8 +849,8 @@
   note: "No timezone indicated (New York assumed) "
 
 
-- title: "CLPSC"
-  full_name: Cybersecurity Law and Policy Scholars Conference
+- title: "CLPSC 2025"
+  full_name: Cybersecurity Law and Policy Scholars Conference 2025
   year: 2025
   id: "clpsc2025"
   link: "https://docs.google.com/forms/d/e/1FAIpQLSeLiLAUzIks0PMhLT1iJf7vJLeFk8cXBq9w8k2kGGJyugkohQ/viewform"
