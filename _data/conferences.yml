@@ -1,5 +1,20 @@
 ---
 
+- title: "IP/LaP (Intellectual Property Law and Philosophy Workshop)"
+  full_name: New York City Intellectual Property Law and Philosophy Workshop (IP/LaP)
+  year: 2026
+  id: "ipLaP2026"
+  link: "https://www.stjohnslawiplc.org/events/2026/4/17/nyc-ip-law-and-philosophy-workshop-iplap"
+  deadline: ["2026-02-20 23:59"]
+  timezone: "UTC-12"
+  date: April 17
+  place: NY, NY
+  start: 2026-04-18
+  end: 2026-04-18
+  sub: ["PRIV", "AI", "IP"]
+  note: "No timezone indicated (New York assumed). The St. John’s Intellectual Property Law Center invites requests to present at the New York City Intellectual Property Law and Philosophy Workshop (IP/LaP) at our Manhattan Campus (101 Astor Place) on Friday, April 17, 2026. IP/LaP is a day-long forum for scholars working on theoretical approaches to IP law, law and technology, and the regulation of creativity, expression, and knowledge to come together to discuss their projects at early- to middle-stages of development in a roundtable environment. St. John’s will provide breakfast, lunch, and dinner on the day of the workshop; participants are responsible for their own travel expenses (though assistance with hotel reservations at preferred rates may be available depending on interest)."
+
+
 - title: "CLPSC (Cybersecurity Law and Policy Scholars Conference)"
   full_name: Cybersecurity Law and Policy Scholars Conference 2026
   year: 2026
