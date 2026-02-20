@@ -1,5 +1,64 @@
 ---
 
+- title: "AI and Open Government Workshop (ICAIL)"
+  full_name: 1st AI & Open Government Workshop | International Conference on Artificial Intelligence and Law
+  year: 2026
+  id: "AIOG26"
+  link: "https://aiog.net/cfp/"
+  deadline: ["2026-04-09 23:59"]
+  timezone: "UTC-12"
+  date: June 8
+  place: Singapore
+  start: 2026-06-09
+  end: 2026-06-09
+  sub: ["AI"]
+  note: "The AI & Open Government workshop (AIOG) focuses on how modern AI tools and techniques, including Large Language Models (LLMs), can support government accountability and transparency by improving public access to government records and enabling more reliable and compliant disclosure processes. In many jurisdictions, open government and access to information laws such as Freedom of Information (FOIA) and Access to Information (ATI) require large-scale public disclosure of government records, resulting in massive, multimodal data collections whose complexity increasingly challenges both legal compliance and technical processing. At the same time, governments face strict legal obligations to disclose information within statutory deadlines, while protecting sensitive and personal information.  The workshop addresses two key perspectives: (1) AI for citizens--tools and techniques for improving search, exploration, and understanding of public government information;  (2) AI for governments--assisting in accessibility, pre-processing, metadata enrichment, retrieval, filtering, and protecting sensitive information consistent with public disclosure laws"
+
+- title: "Trevor Bench-Capon Doctoral Consortium (ICAIL)"
+  full_name: Trevor Bench-Capon Doctoral Consortium | International Conference on Artificial Intelligence and Law
+  year: 2026
+  id: "ICAILdc26"
+  link: "https://site.smu.edu.sg/icail-2026#call-papers"
+  deadline: ["2026-03-31 23:59"]
+  timezone: "UTC-12"
+  date: June 8-12
+  place: Singapore
+  start: 2026-06-09
+  end: 2026-06-13
+  sub: ["AI"]
+  note: "The Trevor Bench-Capon Doctoral Consortium of ICAIL 2026 invites submissions from doctoral students/candidates describing their research/thesis currently being written in any areas of AI and Law. This event aims to promote the exchange of ideas of PhD researchers in the field of Artificial Intelligence and Law, and to provide them with an opportunity to interact and receive feedback from leading scholars and experts in the field."
+
+- title: "Workshop on Cybersecurity on Earth and in Space"
+  full_name: Workshop on Cybersecurity on Earth and in Space | Gibbons Institute of Law, Science & Technology
+  year: 2026
+  id: "WCES26"
+  link: "https://setonhall.formstack.com/forms/workshop_on_cybersecurity_on_earth_and_in_space"
+  deadline: ["2026-03-01 23:59"]
+  timezone: "America/New_York"
+  date: April 16
+  place: Newark, NJ
+  start: 2026-04-17
+  end: 2026-04-17
+  sub: ["IP"]
+  note: "No timezone indicated on deadline (New York assumed). Organized by the Gibbons Institute of Law, Science & Technology and hosted at Seton Hall University School of Law, this afternoon workshop invites participants to share current research on the problems of securing computer resources, in both Earth-based networks and those in Earth orbit, on the Moon, and beyond.  Led by Dr. David Opderbeck, Professor of Law and Co-Director of the Gibbons Institute and Institute for Privacy Protection, and Dr. Matthew Hersch, Fellow and Adjunct Professor of Law, Gibbons Institute, this workshop will consist of several panels, each of which will offer scholars opportunities to present informally upon topic of their research.  Intended to provide a forum for early-stage research, the workshop will produce no proceedings volume; rather it will be an opportunity to share and refine their current scholarship in a supportive and collegial environment. Speakers will be asked to speak upon their topic for a 10–15 minutes."
+
+
+- title: "Eleventh Copyright Scholarship Roundtable"
+  full_name: Eleventh Copyright Scholarship Roundtable
+  year: 2026
+  id: "CSR26"
+  link: "https://docs.google.com/forms/d/e/1FAIpQLSfOICnv23iGik8Z95F2oRFZKHgojMKxZhkHgPUj2vYCFGM3Gw/viewform?usp=header"
+  deadline: ["2026-03-27 23:59"]
+  timezone: "America/New_York"
+  date: June 9-10
+  place: Philadelphia, PA
+  start: 2026-06-10
+  end: 2026-06-11
+  sub: ["IP"]
+  note: "No timezone indicated on deadline (New York assumed). The Center for Technology, Innovation & Competition (CTIC) at the University of Pennsylvania Carey Law School and the Program on Science, Technology, and Intellectual Property Law (STIPL) at Columbia Law School will be co-organizing the Eleventh Copyright Scholarship Roundtable. The Roundtable is designed to be a forum for the discussion of current copyright scholarship, covering a range of methodologies, topics and perspectives. Approximately 7-9 papers will be chosen for discussion over the course of the Roundtable, with each paper allocated an entire hour for discussion."
+
+
+
 - title: "Junior Intellectual Property Scholars Association - Summer Workshop"
   full_name: Junior Intellectual Property Scholars Association Summer Workshop
   year: 2026
