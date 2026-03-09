@@ -1,5 +1,19 @@
 ---
 
+- title: "Reasoning with Evidence in Law Enforcement and Forensics Workshop (ICAIL)"
+  full_name: RELAF 2026 Workshop on Reasoning with Evidence in Law Enforcement and Forensics | International Conference on Artificial Intelligence and Law
+  year: 2026
+  id: "RELAF26"
+  link: "https://sites.google.com/view/relaf/"
+  deadline: ["2026-04-25 23:59"]
+  timezone: "UTC-12"
+  date: June 8
+  place: Singapore
+  start: 2026-06-09
+  end: 2026-06-09
+  sub: ["AI"]
+  note: "RELAF2026 explores how artificial intelligence can advance forensic analysis, digital evidence analysis, and evidential reasoning in judicial and law enforcement contexts. We invite submissions presenting novel Artificial Intelligence methods, systems and case studies at the intersection of (digital) forensics, law enforcement practice, and evidence-based legal reasoning. Beyond reporting successes, we also encourage critical perspectives on the limitations of current approaches and the legal and technical challenges of designing AI systems intended to support forensic, legal and law-enforcement professionals in their work."
+
 - title: "WEMIP: Workshop on Empirical Methods in Intellectual Property"
   full_name: "Workshop on Empirical Methods in Intellectual Property"
   year: 2026
