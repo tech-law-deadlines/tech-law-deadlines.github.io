@@ -1,5 +1,20 @@
 ---
 
+# Added by Cursor
+- title: Wiet Life Science Law Scholars Workshop
+  full_name: "Loyola University Chicago School of Law’s Beazley Institute for Health Law and Policy"
+  year: 2026
+  id: wlslsw26
+  link: https://www.luc.edu/law/wiet-life-science/
+  deadline: ["2026-07-03 23:59"]
+  timezone: "America/Chicago"
+  date: September 11
+  start: 2026-09-11
+  end: 2026-09-11
+  place: Chicago, IL
+  sub: ["IP", "JUNIOR"]
+  note: "in person. Call for papers (PDF): https://tech-law-deadlines.github.io/static/cfp/wiet-cfp-2026.pdf"
+
 - title: "Ninth Junior Faculty Forum on Law and STEM"
   full_name: "Ninth Junior Faculty Forum on Law and STEM"
   year: 2026
