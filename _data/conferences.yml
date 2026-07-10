@@ -1,5 +1,20 @@
 ---
 
+- title: "AI and Data Law Summit (New York Law School)"
+  full_name: "AI and Data Law Summit (New York Law School Law Review and the Innovation Center for Law and Technology)"
+  year: 2026
+  id: "aidls26"
+  link: "https://www.nyls.edu/academics/specialty-areas/law-review-and-journals/law-review/call-for-papers/"
+  deadline: ["2026-07-15 23:59"]
+  timezone: "America/New_York"
+  date: October 29
+  place: NY, NY
+  start: 2026-10-30
+  end: 2026-10-30
+  sub: ["IP", "SEC", "PRIV", "AI"]
+  note: "No timezone indicated (New York assumed). The New York Law School Law Review and the Innovation Center for Law and Technology invite submissions for their inaugural Artificial Intelligence and Data Law Summit—a one-day convening of scholars, practitioners, technologists, and policymakers examining the most pressing legal questions at the intersection of AI and the law. As AI becomes embedded in commercial systems, government functions, and everyday life, the law faces profound implications. This Summit aims to generate scholarship that will shape the legal frameworks needed for the era ahead."
+
+
 - title: "AI for Law Scholars (Northwestern Law and Technology Initiative)"
   full_name: "AI for Law Scholars (Northwestern Law and Technology Initiative)"
   year: 2026
