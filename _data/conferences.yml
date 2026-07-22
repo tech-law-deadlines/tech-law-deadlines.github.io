@@ -1,5 +1,35 @@
 ---
 
+- title: "OWCAL"
+  full_name: "Online Workshop on the Computational Analysis of Law"
+  year: 2027
+  id: "owcal27"
+  link: "https://www.law.virginia.edu/academics/online-workshop-computational-analysis-law"
+  deadline: ["2026-09-14 23:59"]
+  timezone: "America/New_York"
+  date:
+  place: Online
+  start:
+  end:
+  sub: ["AI"]
+  note: "No timezone indicated (New York assumed). OWCAL gives scholars working at the intersection of law and computational methods a recurring venue to present early-stage work and get feedback, addressing the fact that any single institution may lack a critical mass of colleagues with similar interests. Sessions run monthly online from January through May 2027; each centers on a draft paper circulated a week in advance, followed by a presentation, comments from an assigned discussant, and open Q&A. Suitable projects are empirical, treat legal texts (broadly understood) as data for quantitative analysis (descriptive or causal work both welcome), will not be published before the workshop date, and will be far enough along to circulate a draft the week prior. Submit a 150-500 word abstract covering motivation, methods, and early results to owcal@law.virginia.edu with the subject line 'Abstract Submission' (full draft papers are especially welcome; multi-author projects are eligible). Those not already on the OWCAL participant list can RSVP to the same address with the subject line 'OWCAL RSVP.' A full schedule will be released in October."
+
+
+- title: "JURIX"
+  full_name: "International Conference on Legal Knowledge and Information Systems (JURIX 2026)"
+  year: 2026
+  id: "jurix26"
+  link: "https://www.irit.fr/jurix2026/call-for-papers/"
+  deadline: ["2026-09-05 23:59"]
+  timezone: "UTC-12"
+  date: December 8-10
+  place: Toulouse, France
+  start: 2026-12-09
+  end: 2026-12-11
+  sub: ["AI"]
+  note: "Deadline is AoE. An abstract submission (recommended but not required) is due August 28, 2026. Hosted at Universite Toulouse Capitole by the Toulouse Research Institute in Information Technology and the Toulouse School of Law, JURIX is a long-running international conference on the intersection of law, AI, and information systems, covering legal knowledge-based systems, legal information retrieval, and computational and socio-technical approaches to law and other normative systems. Long, short, and poster papers are accepted, formatted per IOS Press guidelines and reviewed single-blind; all accepted papers must be presented in person. December 8 hosts workshops and the doctoral consortium, with the main conference on December 9-10."
+
+
 - title: "AI and Data Law Summit (New York Law School)"
   full_name: "AI and Data Law Summit (New York Law School Law Review and the Innovation Center for Law and Technology)"
   year: 2026
