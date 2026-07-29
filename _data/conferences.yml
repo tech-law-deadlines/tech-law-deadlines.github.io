@@ -1,5 +1,19 @@
 ---
 
+- title: "User Rights 2026"
+  full_name: "User Rights 2026: Copyright, the Right to Research and Just AI (Geneva Centre on Knowledge Governance)"
+  year: 2026
+  id: "ur26"
+  link: "https://knowledgegov.org/userrights2026/"
+  deadline: ["2026-08-23 23:59"]
+  timezone: "UTC-12"
+  date: September 30-October 2
+  place: Geneva, Switzerland
+  start: 2026-10-01
+  end: 2026-10-03
+  sub: ["IP", "AI"]
+  note: "Deadline is AoE (registration and applications close 23 August 2026 at 11:59pm, any timezone). Hosted by the Geneva Centre on Knowledge Governance, a joint initiative of American University's Program on Information Justice and Intellectual Property (PIJIP) and the Geneva Graduate Institute, at Villa Barton on the Domaine Barton campus in Parc Mon Repos, Geneva. The annual gathering of the Global Network on Copyright User Rights (100+ scholars and practitioners across 30 countries) turns in 2026 to how copyright, the right to research, and the growing use of artificial intelligence intersect, organized around three streams: the right to research (especially for academic institutions, faculty and students worldwide), exceptions and limitations to copyright amid renewed work at WIPO, and 'Just AI' (combining Public AI accountability and access with the rights of creators and custodians of traditional knowledge, and Global South development priorities). Six themes run across sessions: Public AI & Just AI, the Right to Research, Remuneration & Licensing, Creator Rights, Traditional Knowledge & AI, and WIPO Negotiations on L&Es. The programme runs three days: a public keynote panel and reception Wednesday, September 30; a public conference day with six panel sessions and an evening lakeside reception Thursday, October 1; and User Rights Committee meetings and works-in-progress sessions for members and invited participants Friday, October 2, with an optional Saturday excursion to the Salève. Three ways to take part: attend the public conference day, present a paper under one of the six themes, or propose a panel or workshop. The conference hotel is the Drake Longchamp Hotel in Geneva."
+
 - title: "OWCAL"
   full_name: "Online Workshop on the Computational Analysis of Law"
   year: 2027
