@@ -1,5 +1,19 @@
 ---
 
+- title: "WIPIP 2027"
+  full_name: "Works-in-Progress Intellectual Property Colloquium (WIPIP 2027)"
+  year: 2027
+  id: "wipip27"
+  link: "https://law.unlv.edu/events/wipip-2027"
+  deadline: ["2026-09-30 12:00"]
+  timezone: "America/Los_Angeles"
+  date: January 28-30
+  place: Las Vegas, NV
+  start: 2027-01-29
+  end: 2027-01-31
+  sub: ["IP"]
+  note: "Deadline is noon PST. Hosted at the William S. Boyd School of Law, University of Nevada, Las Vegas. Two days of presentations and discussion take place January 29-30, preceded by a welcome reception at the host hotel, Embassy Suites, on January 28. A Formula 1-themed social program on the Las Vegas Strip is planned for January 29, and the traditional Evil Twin Debate takes place during lunch that day. The WIPIP 2027 webpage has a Call for Papers/Abstracts form and hotel information. Submissions are accepted on a rolling basis; later submissions will still be considered if space permits, with acceptance notifications sent no later than October 30, 2026. Those wishing to attend without presenting can also request to do so via the Call for Papers form."
+
 - title: "User Rights 2026"
   full_name: "User Rights 2026: Copyright, the Right to Research and Just AI (Geneva Centre on Knowledge Governance)"
   year: 2026
